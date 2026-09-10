@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this dataset or the models, please cite the paper below."
+title: "Early J-V Relaxation Predicts Persistent PCE Loss in Hybrid Perovskite Solar Cells - data and code"
+type: dataset
+authors:
+  - family-names: Marchenko
+    given-names: E. I.
+  - family-names: Belich
+    given-names: N. A.
+  - family-names: Udalova
+    given-names: N. N.
+  - family-names: Khakimullin
+    given-names: A.
+  - family-names: Wang
+    given-names: Chengyuan
+  - family-names: Li
+    given-names: Yumao
+  - family-names: Ivlev
+    given-names: P. A.
+  - family-names: Tyutina
+    given-names: S.
+  - family-names: Ordinartsev
+    given-names: A. A.
+  - family-names: Schwartzberg
+    given-names: M. A.
+  - family-names: Goodilin
+    given-names: E. A.
+  - family-names: Tarasov
+    given-names: A. B.
+    email: alexey.bor.tarasov@yandex.ru
+license: MIT
+preferred-citation:
+  type: article
+  title: "Early J-V Relaxation Predicts Persistent PCE Loss in Hybrid Perovskite Solar Cells"
+  authors:
+    - family-names: Marchenko
+      given-names: E. I.
+    - family-names: Belich
+      given-names: N. A.
+    - family-names: Udalova
+      given-names: N. N.
+    - family-names: Khakimullin
+      given-names: A.
+    - family-names: Wang
+      given-names: Chengyuan
+    - family-names: Li
+      given-names: Yumao
+    - family-names: Ivlev
+      given-names: P. A.
+    - family-names: Tyutina
+      given-names: S.
+    - family-names: Ordinartsev
+      given-names: A. A.
+    - family-names: Schwartzberg
+      given-names: M. A.
+    - family-names: Goodilin
+      given-names: E. A.
+    - family-names: Tarasov
+      given-names: A. B.
+  year: 2026
+  journal: "(to be added upon publication)"

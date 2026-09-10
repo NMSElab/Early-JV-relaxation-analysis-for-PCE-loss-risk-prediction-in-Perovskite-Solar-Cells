@@ -1,0 +1,7 @@
+endpoint,fraction,horizon_h,label
+T90_500h,0.9,500,T90 within 500 h
+T80_500h,0.8,500,T80 within 500 h
+T80_1000h,0.8,1000,T80 within 1000 h
+T70_1000h,0.7,1000,T70 within 1000 h
+T70_3000h,0.7,3000,T70 within 3000 h
+T50_3000h,0.5,3000,T50 within 3000 h

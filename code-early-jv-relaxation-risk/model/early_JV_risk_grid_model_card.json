@@ -1,0 +1,48 @@
+{
+  "bundle_version": "1.0",
+  "input_requirement": "At least four actual early Session-1 scans per device with reverse PCE, Voc, Isc, FF, Rs, Rsh and HI.",
+  "supported_endpoints": [
+    {
+      "endpoint": "T90_500h",
+      "label": "T90 within 500 h",
+      "training_n": 162,
+      "training_events": 65
+    },
+    {
+      "endpoint": "T80_500h",
+      "label": "T80 within 500 h",
+      "training_n": 157,
+      "training_events": 49
+    },
+    {
+      "endpoint": "T80_1000h",
+      "label": "T80 within 1000 h",
+      "training_n": 151,
+      "training_events": 65
+    },
+    {
+      "endpoint": "T70_1000h",
+      "label": "T70 within 1000 h",
+      "training_n": 150,
+      "training_events": 56
+    },
+    {
+      "endpoint": "T70_3000h",
+      "label": "T70 within 3000 h",
+      "training_n": 141,
+      "training_events": 83
+    },
+    {
+      "endpoint": "T50_3000h",
+      "label": "T50 within 3000 h",
+      "training_n": 141,
+      "training_events": 71
+    }
+  ],
+  "quality_control": "The inference script flags missing, non-finite and outside-training-range features.",
+  "interpretation": "Risk labels are training-distribution tertiles; probability is model output and should be used for ranking/triage, not as a guaranteed lifetime estimate.",
+  "provenance": {
+    "raw_file": "data/jv_scans.csv (public release, coded identifiers)",
+    "random_seed": 42
+  }
+}

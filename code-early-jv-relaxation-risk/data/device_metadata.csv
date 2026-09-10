@@ -1,0 +1,1092 @@
+device_id,subseries_id,passivator_condition,is_control,n_components,mixture_type,passivator_concentration_mg_ml,annealing_temp_c_perovskite,solvent_type,pce0,pce0_physical,pce_tier,timing_sensitive,partition
+PSC-0001,SS-001,,,,,,,,8.336185628333332,True,G2_low,False,
+PSC-0002,SS-001,,,,,,,,7.908301991111112,True,G2_low,False,
+PSC-0003,SS-001,,,,,,,,0.6788106423888888,True,G1_nonfunctional,False,
+PSC-0004,SS-001,,,,,,,,8.137533538888889,True,G2_low,False,
+PSC-0005,SS-001,,,,,,,,7.850453013333334,True,G2_low,False,
+PSC-0006,SS-001,,,,,,,,8.927114672777778,True,G2_low,False,
+PSC-0007,SS-001,,,,,,,,8.988720315555556,True,G2_low,False,
+PSC-0008,SS-001,,,,,,,,9.13799207111111,True,G2_low,False,
+PSC-0009,SS-001,,,,,,,,0.5293284097777777,True,G1_nonfunctional,False,
+PSC-0010,SS-002,,,,,,,,18.91933883888889,True,G4_high,False,
+PSC-0011,SS-002,,,,,,,,0.3042338611666667,True,G1_nonfunctional,False,
+PSC-0012,SS-002,,,,,,,,13.12265271055556,True,G3_moderate,False,
+PSC-0013,SS-002,,,,,,,,1.125058438,True,G1_nonfunctional,False,
+PSC-0014,SS-002,,,,,,,,19.25080729,True,G4_high,False,
+PSC-0015,SS-002,,,,,,,,18.5175679,True,G4_high,False,
+PSC-0016,SS-002,,,,,,,,18.71892264,True,G4_high,False,
+PSC-0017,SS-002,,,,,,,,19.06283041,True,G4_high,False,
+PSC-0018,SS-002,,,,,,,,18.44342539,True,G4_high,False,
+PSC-0019,SS-002,,,,,,,,19.11909384,True,G4_high,False,
+PSC-0020,SS-003,,,,,,,,19.57018739,True,G4_high,False,
+PSC-0021,SS-003,,,,,,,,18.927825085,True,G4_high,False,
+PSC-0022,SS-003,,,,,,,,19.31028619,True,G4_high,False,
+PSC-0023,SS-003,,,,,,,,0.2370460601111111,True,G1_nonfunctional,False,
+PSC-0024,SS-003,,,,,,,,19.386283735,True,G4_high,False,
+PSC-0025,SS-003,,,,,,,,18.745187565,True,G4_high,False,
+PSC-0026,SS-003,,,,,,,,7.284417439999999,True,G2_low,False,
+PSC-0027,SS-003,,,,,,,,18.34453693055556,True,G4_high,False,
+PSC-0028,SS-003,,,,,,,,0.4830952856666667,True,G1_nonfunctional,False,
+PSC-0029,SS-004,,,,,,,,19.095583065,True,G4_high,False,
+PSC-0030,SS-004,,,,,,,,18.8367517,True,G4_high,False,
+PSC-0031,SS-004,,,,,,,,18.35630712333333,True,G4_high,False,
+PSC-0032,SS-004,,,,,,,,19.34549083944444,True,G4_high,False,
+PSC-0033,SS-004,,,,,,,,0.2766867347222223,True,G1_nonfunctional,False,
+PSC-0034,SS-004,,,,,,,,18.90756604222222,True,G4_high,False,
+PSC-0035,SS-004,,,,,,,,18.82132425777778,True,G4_high,False,
+PSC-0036,SS-005,,,,,,,,0.4457136248888888,True,G1_nonfunctional,False,
+PSC-0037,SS-005,,,,,,,,0.9463235891666668,True,G1_nonfunctional,False,
+PSC-0038,SS-005,,,,,,,,0.8480751885000001,True,G1_nonfunctional,False,
+PSC-0039,SS-005,,,,,,,,1.912037065833333,True,G1_nonfunctional,False,
+PSC-0040,SS-005,,,,,,,,1.951569992888889,True,G1_nonfunctional,False,
+PSC-0041,SS-005,,,,,,,,1.712868119666667,True,G1_nonfunctional,False,
+PSC-0042,SS-006,,,,,,,,14.19,True,G3_moderate,,
+PSC-0043,SS-007,control,True,0.0,control,,"125,60",,15.62,True,G3_moderate,True,
+PSC-0044,SS-007,control,True,0.0,control,,"125,60",,12.11,True,G3_moderate,True,
+PSC-0045,SS-007,control,True,0.0,control,,"125,60",,11.11,True,G2_low,True,
+PSC-0046,SS-007,control,True,0.0,control,,"125,60",,15.38,True,G3_moderate,True,
+PSC-0047,SS-007,control,True,0.0,control,,"125,60",,14.38,True,G3_moderate,True,
+PSC-0048,SS-007,control,True,0.0,control,,"125,60",,15.05,True,G3_moderate,True,
+PSC-0049,SS-007,control,True,0.0,control,,"125,60",,0.01,False,ARTIFACT,,
+PSC-0050,SS-007,control,True,0.0,control,,"125,60",,12.41,True,G3_moderate,,
+PSC-0051,SS-007,control,True,0.0,control,,"125,60",,0.01,False,ARTIFACT,,
+PSC-0052,SS-007,control,True,0.0,control,,"125,60",,15.21,True,G3_moderate,,
+PSC-0053,SS-008,control,True,0.0,control,,"125,60",,13.86,True,G3_moderate,True,
+PSC-0054,SS-008,control,True,0.0,control,,"125,60",,16.26,True,G3_moderate,True,
+PSC-0055,SS-008,control,True,0.0,control,,"125,60",,1.47,True,G1_nonfunctional,,
+PSC-0056,SS-008,control,True,0.0,control,,"125,60",,-0.02,False,ARTIFACT,,
+PSC-0057,SS-008,control,True,0.0,control,,"125,60",,15.58,True,G3_moderate,True,
+PSC-0058,SS-008,control,True,0.0,control,,"125,60",,16.18,True,G3_moderate,True,
+PSC-0059,SS-008,control,True,0.0,control,,"125,60",,14.01,True,G3_moderate,,
+PSC-0060,SS-008,control,True,0.0,control,,"125,60",,14.39,True,G3_moderate,,
+PSC-0061,SS-008,control,True,0.0,control,,"125,60",,1.91,True,G1_nonfunctional,,
+PSC-0062,SS-008,control,True,0.0,control,,"125,60",,11.83,True,G3_moderate,,
+PSC-0063,SS-008,control,True,0.0,control,,"125,60",,8.72,True,G2_low,True,
+PSC-0064,SS-008,control,True,0.0,control,,"125,60",,16.2,True,G3_moderate,True,
+PSC-0065,SS-009,control,True,0.0,control,,"125,60",,17.93,True,G4_high,True,
+PSC-0066,SS-009,control,True,0.0,control,,"125,60",,15.26,True,G3_moderate,True,
+PSC-0067,SS-009,control,True,0.0,control,,"125,60",,15.72,True,G3_moderate,True,
+PSC-0068,SS-009,control,True,0.0,control,,"125,60",,10.52,True,G2_low,True,
+PSC-0069,SS-009,control,True,0.0,control,,"125,60",,15.91,True,G3_moderate,True,
+PSC-0070,SS-009,control,True,0.0,control,,"125,60",,13.6,True,G3_moderate,True,
+PSC-0071,SS-009,control,True,0.0,control,,"125,60",,15.77,True,G3_moderate,True,
+PSC-0072,SS-009,control,True,0.0,control,,"125,60",,16.74,True,G4_high,True,
+PSC-0073,SS-009,control,True,0.0,control,,"125,60",,14.75,True,G3_moderate,True,
+PSC-0074,SS-009,control,True,0.0,control,,"125,60",,16.47,True,G4_high,True,
+PSC-0075,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,18.18,True,G4_high,True,
+PSC-0076,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,17.64,True,G4_high,True,
+PSC-0077,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,17.93,True,G4_high,True,
+PSC-0078,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,0.02,True,G1_nonfunctional,True,
+PSC-0079,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,17.44,True,G4_high,True,
+PSC-0080,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,18.66,True,G4_high,True,
+PSC-0081,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,17.28,True,G4_high,True,
+PSC-0082,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,2.24,True,G1_nonfunctional,True,
+PSC-0083,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,17.66,True,G4_high,True,
+PSC-0084,SS-010,PDAI2,False,1.0,single,0.5,"125,60",,1.61,True,G1_nonfunctional,True,
+PSC-0085,SS-011,AUDAI,False,1.0,single,,"125,60",,11.7,True,G3_moderate,False,locked_test
+PSC-0086,SS-011,AUDAI,False,1.0,single,,"125,60",,10.71,True,G2_low,False,locked_test
+PSC-0087,SS-011,AUDAI,False,1.0,single,,"125,60",,16.44,True,G4_high,,
+PSC-0088,SS-011,AUDAI,False,1.0,single,,"125,60",,0.17,True,G1_nonfunctional,,
+PSC-0089,SS-011,AUDAI,False,1.0,single,,"125,60",,16.11,True,G3_moderate,True,
+PSC-0090,SS-011,AUDAI,False,1.0,single,,"125,60",,16.22,True,G3_moderate,True,
+PSC-0091,SS-011,AUDAI,False,1.0,single,,"125,60",,16.55,True,G4_high,,
+PSC-0092,SS-011,AUDAI,False,1.0,single,,"125,60",,17.44,True,G4_high,,
+PSC-0093,SS-011,AUDAI,False,1.0,single,,"125,60",,1.68,True,G1_nonfunctional,,
+PSC-0094,SS-011,AUDAI,False,1.0,single,,"125,60",,0.0,False,ARTIFACT,,
+PSC-0095,SS-012,control,True,0.0,control,,"125,60",,14.44,True,G3_moderate,False,development
+PSC-0096,SS-012,control,True,0.0,control,,"125,60",,13.75,True,G3_moderate,False,development
+PSC-0097,SS-012,control,True,0.0,control,,"125,60",,14.49,True,G3_moderate,False,development
+PSC-0098,SS-012,control,True,0.0,control,,"125,60",,0.0,False,ARTIFACT,,
+PSC-0099,SS-012,control,True,0.0,control,,"125,60",,16.69,True,G4_high,True,
+PSC-0100,SS-012,control,True,0.0,control,,"125,60",,14.56,True,G3_moderate,True,
+PSC-0101,SS-012,control,True,0.0,control,,"125,60",,16.39,True,G4_high,,
+PSC-0102,SS-012,control,True,0.0,control,,"125,60",,15.52,True,G3_moderate,,
+PSC-0103,SS-012,control,True,0.0,control,,"125,60",,15.68,True,G3_moderate,True,
+PSC-0104,SS-012,control,True,0.0,control,,"125,60",,16.48,True,G4_high,True,
+PSC-0105,SS-013,control,True,0.0,control,,"125,60",,15.14,True,G3_moderate,False,development
+PSC-0106,SS-013,control,True,0.0,control,,"125,60",,15.84,True,G3_moderate,False,development
+PSC-0107,SS-013,control,True,0.0,control,,"125,60",,12.2,True,G3_moderate,False,development
+PSC-0108,SS-013,control,True,0.0,control,,"125,60",,13.76,True,G3_moderate,False,development
+PSC-0109,SS-013,control,True,0.0,control,,"125,60",,13.79,True,G3_moderate,False,development
+PSC-0110,SS-013,control,True,0.0,control,,"125,60",,15.43,True,G3_moderate,False,development
+PSC-0111,SS-013,control,True,0.0,control,,"125,60",,13.33,True,G3_moderate,False,development
+PSC-0112,SS-013,control,True,0.0,control,,"125,60",,16.06,True,G3_moderate,False,development
+PSC-0113,SS-013,control,True,0.0,control,,"125,60",,16.56,True,G4_high,True,
+PSC-0114,SS-013,control,True,0.0,control,,"125,60",,18.06,True,G4_high,True,
+PSC-0115,SS-014,PbI2,False,1.0,single,7,"125,60",,15.48,True,G3_moderate,,
+PSC-0116,SS-014,PbI2,False,1.0,single,7,"125,60",,7.43,True,G2_low,,
+PSC-0117,SS-014,PbI2,False,1.0,single,7,"125,60",,16.21,True,G3_moderate,,
+PSC-0118,SS-014,PbI2,False,1.0,single,7,"125,60",,17.6,True,G4_high,,
+PSC-0119,SS-014,PbI2,False,1.0,single,7,"125,60",,16.32,True,G3_moderate,,
+PSC-0120,SS-014,PbI2,False,1.0,single,7,"125,60",,4.15,True,G1_nonfunctional,,
+PSC-0121,SS-014,PbI2,False,1.0,single,7,"125,60",,13.74,True,G3_moderate,False,development
+PSC-0122,SS-014,PbI2,False,1.0,single,7,"125,60",,13.73,True,G3_moderate,False,development
+PSC-0123,SS-014,PbI2,False,1.0,single,7,"125,60",,16.07,True,G3_moderate,True,
+PSC-0124,SS-014,PbI2,False,1.0,single,7,"125,60",,16.52,True,G4_high,True,
+PSC-0125,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,6.12,True,G2_low,False,development
+PSC-0126,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,4.5,True,G1_nonfunctional,False,development
+PSC-0127,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,13.47,True,G3_moderate,False,development
+PSC-0128,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,4.98,True,G2_low,False,development
+PSC-0129,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,4.18,True,G1_nonfunctional,False,development
+PSC-0130,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,4.15,True,G1_nonfunctional,False,development
+PSC-0131,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,4.35,True,G1_nonfunctional,,
+PSC-0132,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,4.97,True,G2_low,,
+PSC-0133,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,4.69,True,G2_low,,
+PSC-0134,SS-015,PDAI2,False,1.0,single,0.5,"125,60",,5.66,True,G2_low,,
+PSC-0135,SS-016,,,,,,"125,60",,5.098277530006418,True,G2_low,False,
+PSC-0136,SS-016,,,,,,"125,60",,2.643552068624305,True,G1_nonfunctional,False,
+PSC-0137,SS-017,control,True,0.0,control,,"125,60",,14.06,True,G3_moderate,False,development
+PSC-0138,SS-017,control,True,0.0,control,,"125,60",,16.95,True,G4_high,False,development
+PSC-0139,SS-017,control,True,0.0,control,,"125,60",,0.1,True,G1_nonfunctional,False,development
+PSC-0140,SS-017,control,True,0.0,control,,"125,60",,0.01,True,G1_nonfunctional,False,development
+PSC-0141,SS-017,control,True,0.0,control,,"125,60",,16.52,True,G4_high,False,development
+PSC-0142,SS-017,control,True,0.0,control,,"125,60",,16.47,True,G4_high,False,development
+PSC-0143,SS-017,control,True,0.0,control,,"125,60",,14.81,True,G3_moderate,False,development
+PSC-0144,SS-017,control,True,0.0,control,,"125,60",,15.02,True,G3_moderate,False,development
+PSC-0145,SS-017,control,True,0.0,control,,"125,60",,15.19,True,G3_moderate,False,development
+PSC-0146,SS-017,control,True,0.0,control,,"125,60",,0.01,True,G1_nonfunctional,False,development
+PSC-0147,SS-017,control,True,0.0,control,,"125,60",,17.25,True,G4_high,False,development
+PSC-0148,SS-017,control,True,0.0,control,,"125,60",,17.36,True,G4_high,False,
+PSC-0149,SS-017,control,True,0.0,control,,"125,60",,17.34,True,G4_high,False,
+PSC-0150,SS-017,control,True,0.0,control,,"125,60",,18.04,True,G4_high,False,
+PSC-0151,SS-018,PDAI2,False,1.0,single,0.5,"125,60",,5.426142899015833,True,G2_low,,
+PSC-0152,SS-018,PDAI2,False,1.0,single,0.5,"125,60",,5.581943838254172,True,G2_low,,
+PSC-0153,SS-018,PDAI2,False,1.0,single,0.5,"125,60",,3.74520156076166,True,G1_nonfunctional,False,development
+PSC-0154,SS-018,PDAI2,False,1.0,single,0.5,"125,60",,0.0,False,ARTIFACT,,
+PSC-0155,SS-018,PDAI2,False,1.0,single,0.5,"125,60",,0.0,False,ARTIFACT,,
+PSC-0156,SS-018,PDAI2,False,1.0,single,0.5,"125,60",,0.0,False,ARTIFACT,,
+PSC-0157,SS-018,PDAI2,False,1.0,single,0.5,"125,60",,7.566680015618314,True,G2_low,,
+PSC-0158,SS-018,PDAI2,False,1.0,single,0.5,"125,60",,2.79418867271074,True,G1_nonfunctional,,
+PSC-0159,SS-019,PbI2,False,1.0,single,12.5,"125,60",,16.97,True,G4_high,False,development
+PSC-0160,SS-019,PbI2,False,1.0,single,12.5,"125,60",,17.33,True,G4_high,False,development
+PSC-0161,SS-019,PbI2,False,1.0,single,12.5,"125,60",,15.86,True,G3_moderate,False,development
+PSC-0162,SS-019,PbI2,False,1.0,single,12.5,"125,60",,17.94,True,G4_high,False,development
+PSC-0163,SS-019,PbI2,False,1.0,single,12.5,"125,60",,16.63,True,G4_high,False,development
+PSC-0164,SS-019,PbI2,False,1.0,single,12.5,"125,60",,17.58,True,G4_high,False,development
+PSC-0165,SS-019,PbI2,False,1.0,single,12.5,"125,60",,17.22,True,G4_high,False,
+PSC-0166,SS-019,PbI2,False,1.0,single,12.5,"125,60",,18.64,True,G4_high,False,
+PSC-0167,SS-019,PbI2,False,1.0,single,12.5,"125,60",,17.04,True,G4_high,False,development
+PSC-0168,SS-019,PbI2,False,1.0,single,12.5,"125,60",,17.11,True,G4_high,False,development
+PSC-0169,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,18.08,True,G4_high,False,development
+PSC-0170,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,16.31,True,G3_moderate,False,
+PSC-0171,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.36,True,G4_high,False,development
+PSC-0172,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.99,True,G4_high,False,development
+PSC-0173,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,1.9,True,G1_nonfunctional,False,development
+PSC-0174,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,0.01,True,G1_nonfunctional,False,development
+PSC-0175,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,0.04,False,ARTIFACT,,
+PSC-0176,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,16.78,True,G4_high,False,development
+PSC-0177,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.59,True,G4_high,False,
+PSC-0178,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,19.58,True,G4_high,False,
+PSC-0179,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,4.87,True,G2_low,False,development
+PSC-0180,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,19.4,True,G4_high,False,development
+PSC-0181,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,11.64,True,G3_moderate,False,
+PSC-0182,SS-020,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,19.29,True,G4_high,False,
+PSC-0183,SS-021,control,True,0.0,control,,"125,60",,12.52,True,G3_moderate,False,locked_test
+PSC-0184,SS-021,control,True,0.0,control,,"125,60",,16.88,True,G4_high,,
+PSC-0185,SS-021,control,True,0.0,control,,"125,60",,12.84,True,G3_moderate,False,locked_test
+PSC-0186,SS-021,control,True,0.0,control,,"125,60",,14.32,True,G3_moderate,False,locked_test
+PSC-0187,SS-021,control,True,0.0,control,,"125,60",,14.03,True,G3_moderate,False,locked_test
+PSC-0188,SS-021,control,True,0.0,control,,"125,60",,14.63,True,G3_moderate,False,locked_test
+PSC-0189,SS-021,control,True,0.0,control,,"125,60",,13.69,True,G3_moderate,False,locked_test
+PSC-0190,SS-021,control,True,0.0,control,,"125,60",,15.23,True,G3_moderate,False,locked_test
+PSC-0191,SS-022,PDAI2,False,1.0,single,0.5,"125,60",,17.53,True,G4_high,False,development
+PSC-0192,SS-022,PDAI2,False,1.0,single,0.5,"125,60",,19.62,True,G4_high,False,development
+PSC-0193,SS-022,PDAI2,False,1.0,single,0.5,"125,60",,15.94,True,G3_moderate,False,development
+PSC-0194,SS-022,PDAI2,False,1.0,single,0.5,"125,60",,17.89,True,G4_high,False,development
+PSC-0195,SS-022,PDAI2,False,1.0,single,0.5,"125,60",,17.79,True,G4_high,False,development
+PSC-0196,SS-022,PDAI2,False,1.0,single,0.5,"125,60",,18.22,True,G4_high,False,development
+PSC-0197,SS-022,PDAI2,False,1.0,single,0.5,"125,60",,17.46,True,G4_high,False,development
+PSC-0198,SS-022,PDAI2,False,1.0,single,0.5,"125,60",,19.31,True,G4_high,False,development
+PSC-0199,SS-023,PbI2,False,1.0,single,12.5,"125,60",,17.32,True,G4_high,False,development
+PSC-0200,SS-023,PbI2,False,1.0,single,12.5,"125,60",,18.66,True,G4_high,False,development
+PSC-0201,SS-023,PbI2,False,1.0,single,12.5,"125,60",,17.79,True,G4_high,False,development
+PSC-0202,SS-023,PbI2,False,1.0,single,12.5,"125,60",,18.99,True,G4_high,False,development
+PSC-0203,SS-023,PbI2,False,1.0,single,12.5,"125,60",,18.77,True,G4_high,False,development
+PSC-0204,SS-023,PbI2,False,1.0,single,12.5,"125,60",,16.01,True,G3_moderate,False,development
+PSC-0205,SS-023,PbI2,False,1.0,single,12.5,"125,60",,16.56,True,G4_high,False,development
+PSC-0206,SS-023,PbI2,False,1.0,single,12.5,"125,60",,17.63,True,G4_high,False,development
+PSC-0207,SS-024,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,19.68,True,G4_high,False,development
+PSC-0208,SS-024,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,20.83,True,G4_high,False,development
+PSC-0209,SS-024,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,18.52,True,G4_high,False,development
+PSC-0210,SS-024,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,20.66,True,G4_high,False,development
+PSC-0211,SS-024,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,19.13,True,G4_high,False,development
+PSC-0212,SS-024,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,20.54,True,G4_high,False,development
+PSC-0213,SS-024,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,3.01,True,G1_nonfunctional,False,development
+PSC-0214,SS-024,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,0.0,False,ARTIFACT,,
+PSC-0215,SS-025,PbI2,False,1.0,single,12.5,"125,60",,17.96,True,G4_high,False,development
+PSC-0216,SS-025,PbI2,False,1.0,single,12.5,"125,60",,16.77,True,G4_high,False,development
+PSC-0217,SS-025,PbI2,False,1.0,single,12.5,"125,60",,15.57,True,G3_moderate,False,development
+PSC-0218,SS-025,PbI2,False,1.0,single,12.5,"125,60",,19.22,True,G4_high,False,development
+PSC-0219,SS-025,PbI2,False,1.0,single,12.5,"125,60",,18.44,True,G4_high,False,development
+PSC-0220,SS-025,PbI2,False,1.0,single,12.5,"125,60",,18.12,True,G4_high,False,development
+PSC-0221,SS-025,PbI2,False,1.0,single,12.5,"125,60",,18.11,True,G4_high,False,development
+PSC-0222,SS-025,PbI2,False,1.0,single,12.5,"125,60",,18.73,True,G4_high,False,development
+PSC-0223,SS-026,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,7.13,True,G2_low,False,development
+PSC-0224,SS-026,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.87,True,G4_high,False,development
+PSC-0225,SS-026,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,19.75,True,G4_high,False,development
+PSC-0226,SS-026,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,20.89,True,G4_high,False,development
+PSC-0227,SS-026,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,18.93,True,G4_high,False,development
+PSC-0228,SS-026,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,20.31,True,G4_high,False,development
+PSC-0229,SS-026,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,18.99,True,G4_high,False,development
+PSC-0230,SS-026,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,20.43,True,G4_high,False,development
+PSC-0231,SS-027,control,True,0.0,control,,"125,60",,16.74,True,G4_high,False,
+PSC-0232,SS-027,control,True,0.0,control,,"125,60",,17.29,True,G4_high,False,
+PSC-0233,SS-027,control,True,0.0,control,,"125,60",,14.77,True,G3_moderate,False,
+PSC-0234,SS-027,control,True,0.0,control,,"125,60",,15.52,True,G3_moderate,False,
+PSC-0235,SS-027,control,True,0.0,control,,"125,60",,11.87,True,G3_moderate,False,
+PSC-0236,SS-027,control,True,0.0,control,,"125,60",,14.5,True,G3_moderate,False,
+PSC-0237,SS-027,control,True,0.0,control,,"125,60",,14.6,True,G3_moderate,False,
+PSC-0238,SS-027,control,True,0.0,control,,"125,60",,14.05,True,G3_moderate,False,
+PSC-0239,SS-027,control,True,0.0,control,,"125,60",,12.02,True,G3_moderate,False,
+PSC-0240,SS-027,control,True,0.0,control,,"125,60",,17.9,True,G4_high,False,
+PSC-0241,SS-027,control,True,0.0,control,,"125,60",,14.9,True,G3_moderate,False,
+PSC-0242,SS-027,control,True,0.0,control,,"125,60",,14.24,True,G3_moderate,False,
+PSC-0243,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,18.11,True,G4_high,False,
+PSC-0244,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,19.86,True,G4_high,False,
+PSC-0245,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,17.75,True,G4_high,False,
+PSC-0246,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,18.38,True,G4_high,False,
+PSC-0247,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,15.25,True,G3_moderate,False,development
+PSC-0248,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,19.32,True,G4_high,False,development
+PSC-0249,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,2.75,True,G1_nonfunctional,False,development
+PSC-0250,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,19.76,True,G4_high,False,development
+PSC-0251,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,0.07,True,G1_nonfunctional,False,
+PSC-0252,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,19.12,True,G4_high,False,
+PSC-0253,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,17.6,True,G4_high,False,
+PSC-0254,SS-028,PDAI2,False,1.0,single,0.5,"125,60",,18.13,True,G4_high,False,
+PSC-0255,SS-029,PbI2,False,1.0,single,12.5,"125,60",,13.77,True,G3_moderate,False,
+PSC-0256,SS-029,PbI2,False,1.0,single,12.5,"125,60",,15.83,True,G3_moderate,False,
+PSC-0257,SS-029,PbI2,False,1.0,single,12.5,"125,60",,6.61,True,G2_low,False,development
+PSC-0258,SS-029,PbI2,False,1.0,single,12.5,"125,60",,0.0,False,ARTIFACT,,
+PSC-0259,SS-029,PbI2,False,1.0,single,12.5,"125,60",,0.16,True,G1_nonfunctional,False,development
+PSC-0260,SS-029,PbI2,False,1.0,single,12.5,"125,60",,14.38,True,G3_moderate,False,
+PSC-0261,SS-029,PbI2,False,1.0,single,12.5,"125,60",,14.26,True,G3_moderate,False,
+PSC-0262,SS-029,PbI2,False,1.0,single,12.5,"125,60",,15.88,True,G3_moderate,False,
+PSC-0263,SS-029,PbI2,False,1.0,single,12.5,"125,60",,15.59,True,G3_moderate,False,
+PSC-0264,SS-029,PbI2,False,1.0,single,12.5,"125,60",,16.97,True,G4_high,False,
+PSC-0265,SS-029,PbI2,False,1.0,single,12.5,"125,60",,0.52,True,G1_nonfunctional,False,development
+PSC-0266,SS-029,PbI2,False,1.0,single,12.5,"125,60",,14.23,True,G3_moderate,False,development
+PSC-0267,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.95,True,G4_high,False,
+PSC-0268,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,18.04,True,G4_high,False,
+PSC-0269,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.0,True,G4_high,False,
+PSC-0270,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.19,True,G4_high,False,
+PSC-0271,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,13.32,True,G3_moderate,False,development
+PSC-0272,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,15.61,True,G3_moderate,False,development
+PSC-0273,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.55,True,G4_high,False,
+PSC-0274,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,17.19,True,G4_high,False,
+PSC-0275,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,16.94,True,G4_high,False,
+PSC-0276,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,16.9,True,G4_high,False,
+PSC-0277,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,5.76,True,G2_low,False,
+PSC-0278,SS-030,"PbI2, PDAI2",False,2.0,mixture,"12.5,0.5","125,60",,0.0,False,ARTIFACT,,
+PSC-0279,SS-031,control,True,0.0,control,,"125,60",,13.82,True,G3_moderate,False,locked_test
+PSC-0280,SS-031,control,True,0.0,control,,"125,60",,15.6,True,G3_moderate,False,locked_test
+PSC-0281,SS-031,control,True,0.0,control,,"125,60",,15.68,True,G3_moderate,False,
+PSC-0282,SS-031,control,True,0.0,control,,"125,60",,16.32,True,G3_moderate,False,
+PSC-0283,SS-031,control,True,0.0,control,,"125,60",,15.33,True,G3_moderate,False,locked_test
+PSC-0284,SS-031,control,True,0.0,control,,"125,60",,0.94,True,G1_nonfunctional,False,locked_test
+PSC-0285,SS-031,control,True,0.0,control,,"125,60",,-0.58,False,ARTIFACT,,
+PSC-0286,SS-031,control,True,0.0,control,,"125,60",,15.47,True,G3_moderate,False,locked_test
+PSC-0287,SS-031,control,True,0.0,control,,"125,60",,14.66,True,G3_moderate,False,locked_test
+PSC-0288,SS-031,control,True,0.0,control,,"125,60",,0.93,True,G1_nonfunctional,False,locked_test
+PSC-0289,SS-031,control,True,0.0,control,,"125,60",,14.51,True,G3_moderate,False,locked_test
+PSC-0290,SS-031,control,True,0.0,control,,"125,60",,16.91,True,G4_high,False,locked_test
+PSC-0291,SS-031,control,True,0.0,control,,"125,60",,14.39,True,G3_moderate,False,
+PSC-0292,SS-031,control,True,0.0,control,,"125,60",,15.13,True,G3_moderate,False,
+PSC-0293,SS-031,control,True,0.0,control,,"125,60",,0.31,True,G1_nonfunctional,False,
+PSC-0294,SS-031,control,True,0.0,control,,"125,60",,5.2,True,G2_low,False,
+PSC-0295,SS-031,control,True,0.0,control,,"125,60",,6.64,True,G2_low,False,
+PSC-0296,SS-031,control,True,0.0,control,,"125,60",,15.61,True,G3_moderate,False,
+PSC-0297,SS-031,control,True,0.0,control,,"125,60",,13.81,True,G3_moderate,False,
+PSC-0298,SS-031,control,True,0.0,control,,"125,60",,15.71,True,G3_moderate,False,
+PSC-0299,SS-032,PbCl2,False,1.0,single,5,"125,60",,15.32,True,G3_moderate,False,development
+PSC-0300,SS-032,PbCl2,False,1.0,single,5,"125,60",,15.58,True,G3_moderate,False,development
+PSC-0301,SS-032,PbCl2,False,1.0,single,5,"125,60",,15.46,True,G3_moderate,False,development
+PSC-0302,SS-032,PbCl2,False,1.0,single,5,"125,60",,15.98,True,G3_moderate,False,development
+PSC-0303,SS-032,PbCl2,False,1.0,single,5,"125,60",,15.22,True,G3_moderate,False,development
+PSC-0304,SS-032,PbCl2,False,1.0,single,5,"125,60",,11.86,True,G3_moderate,False,development
+PSC-0305,SS-032,PbCl2,False,1.0,single,5,"125,60",,7.2,True,G2_low,False,development
+PSC-0306,SS-032,PbCl2,False,1.0,single,5,"125,60",,16.36,True,G3_moderate,False,development
+PSC-0307,SS-032,PbCl2,False,1.0,single,5,"125,60",,14.95,True,G3_moderate,False,development
+PSC-0308,SS-032,PbCl2,False,1.0,single,5,"125,60",,15.79,True,G3_moderate,False,development
+PSC-0309,SS-033,PbCl2,False,1.0,single,10,"125,60",,13.82,True,G3_moderate,False,development
+PSC-0310,SS-033,PbCl2,False,1.0,single,10,"125,60",,6.99,True,G2_low,False,development
+PSC-0311,SS-033,PbCl2,False,1.0,single,10,"125,60",,13.79,True,G3_moderate,False,development
+PSC-0312,SS-033,PbCl2,False,1.0,single,10,"125,60",,16.35,True,G3_moderate,False,development
+PSC-0313,SS-033,PbCl2,False,1.0,single,10,"125,60",,1.01,True,G1_nonfunctional,False,development
+PSC-0314,SS-033,PbCl2,False,1.0,single,10,"125,60",,15.38,True,G3_moderate,False,development
+PSC-0315,SS-033,PbCl2,False,1.0,single,10,"125,60",,14.02,True,G3_moderate,False,development
+PSC-0316,SS-033,PbCl2,False,1.0,single,10,"125,60",,14.2,True,G3_moderate,False,development
+PSC-0317,SS-033,PbCl2,False,1.0,single,10,"125,60",,12.14,True,G3_moderate,False,development
+PSC-0318,SS-033,PbCl2,False,1.0,single,10,"125,60",,14.54,True,G3_moderate,False,development
+PSC-0319,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,12.55,True,G3_moderate,False,development
+PSC-0320,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,16.94,True,G4_high,False,development
+PSC-0321,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,15.91,True,G3_moderate,False,development
+PSC-0322,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,17.89,True,G4_high,False,development
+PSC-0323,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,16.68,True,G4_high,False,development
+PSC-0324,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,18.21,True,G4_high,False,development
+PSC-0325,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,16.15,True,G3_moderate,False,development
+PSC-0326,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,17.85,True,G4_high,False,development
+PSC-0327,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,17.31,True,G4_high,False,development
+PSC-0328,SS-034,"PbCl2, MAI",False,2.0,mixture,"10, 4","125,60",,18.59,True,G4_high,False,development
+PSC-0329,SS-035,control,True,0.0,control,,"125,60",,0.0,False,ARTIFACT,,
+PSC-0330,SS-035,control,True,0.0,control,,"125,60",,16.41,True,G4_high,False,development
+PSC-0331,SS-035,control,True,0.0,control,,"125,60",,2.17,True,G1_nonfunctional,False,development
+PSC-0332,SS-035,control,True,0.0,control,,"125,60",,3.1,True,G1_nonfunctional,False,development
+PSC-0333,SS-035,control,True,0.0,control,,"125,60",,0.04,True,G1_nonfunctional,False,development
+PSC-0334,SS-035,control,True,0.0,control,,"125,60",,16.58,True,G4_high,False,development
+PSC-0335,SS-035,control,True,0.0,control,,"125,60",,16.12,True,G3_moderate,False,development
+PSC-0336,SS-035,control,True,0.0,control,,"125,60",,17.45,True,G4_high,False,development
+PSC-0337,SS-035,control,True,0.0,control,,"125,60",,0.17,True,G1_nonfunctional,False,development
+PSC-0338,SS-035,control,True,0.0,control,,"125,60",,17.1,True,G4_high,False,development
+PSC-0339,SS-036,MAI,False,1.0,single,2,"125,60",,1.27,True,G1_nonfunctional,False,development
+PSC-0340,SS-036,MAI,False,1.0,single,2,"125,60",,13.13,True,G3_moderate,False,development
+PSC-0341,SS-036,MAI,False,1.0,single,2,"125,60",,6.2,True,G2_low,False,development
+PSC-0342,SS-036,MAI,False,1.0,single,2,"125,60",,4.81,True,G2_low,False,development
+PSC-0343,SS-036,MAI,False,1.0,single,2,"125,60",,7.54,True,G2_low,False,development
+PSC-0344,SS-036,MAI,False,1.0,single,2,"125,60",,7.81,True,G2_low,False,development
+PSC-0345,SS-036,MAI,False,1.0,single,2,"125,60",,9.49,True,G2_low,False,development
+PSC-0346,SS-036,MAI,False,1.0,single,2,"125,60",,10.87,True,G2_low,False,development
+PSC-0347,SS-036,MAI,False,1.0,single,2,"125,60",,8.15,True,G2_low,False,development
+PSC-0348,SS-036,MAI,False,1.0,single,2,"125,60",,-0.01,False,ARTIFACT,,
+PSC-0349,SS-037,PbCl2,False,1.0,single,5,"125,60",,6.75,True,G2_low,False,development
+PSC-0350,SS-037,PbCl2,False,1.0,single,5,"125,60",,12.86,False,ARTIFACT,,
+PSC-0351,SS-037,PbCl2,False,1.0,single,5,"125,60",,17.19,True,G4_high,False,development
+PSC-0352,SS-037,PbCl2,False,1.0,single,5,"125,60",,18.18,True,G4_high,False,development
+PSC-0353,SS-037,PbCl2,False,1.0,single,5,"125,60",,7.07,True,G2_low,False,development
+PSC-0354,SS-037,PbCl2,False,1.0,single,5,"125,60",,0.15,True,G1_nonfunctional,False,development
+PSC-0355,SS-037,PbCl2,False,1.0,single,5,"125,60",,17.64,True,G4_high,False,development
+PSC-0356,SS-037,PbCl2,False,1.0,single,5,"125,60",,18.53,True,G4_high,False,development
+PSC-0357,SS-037,PbCl2,False,1.0,single,5,"125,60",,17.48,True,G4_high,False,development
+PSC-0358,SS-037,PbCl2,False,1.0,single,5,"125,60",,1.03,True,G1_nonfunctional,False,development
+PSC-0359,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,17.27,True,G4_high,False,development
+PSC-0360,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,18.33,True,G4_high,False,development
+PSC-0361,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,0.1,True,G1_nonfunctional,False,development
+PSC-0362,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,18.79,True,G4_high,False,development
+PSC-0363,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,16.99,True,G4_high,False,development
+PSC-0364,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,17.74,True,G4_high,False,development
+PSC-0365,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,16.16,True,G3_moderate,False,development
+PSC-0366,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,0.74,True,G1_nonfunctional,False,development
+PSC-0367,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,16.13,True,G3_moderate,False,development
+PSC-0368,SS-038,"PbCl2, MAI",False,2.0,mixture,"5,2","125,60",,17.86,True,G4_high,False,development
+PSC-0369,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,16.97,True,G4_high,False,locked_test
+PSC-0370,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,1.4,True,G1_nonfunctional,False,locked_test
+PSC-0371,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,17.18,True,G4_high,False,locked_test
+PSC-0372,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,18.46,True,G4_high,False,locked_test
+PSC-0373,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,17.39,True,G4_high,False,locked_test
+PSC-0374,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,18.66,True,G4_high,False,locked_test
+PSC-0375,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,17.36,True,G4_high,False,locked_test
+PSC-0376,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,18.34,True,G4_high,False,locked_test
+PSC-0377,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,17.22,True,G4_high,False,locked_test
+PSC-0378,SS-039,"PbCl2, MAI",False,2.0,mixture,"5,4","125,60",,0.45,True,G1_nonfunctional,False,locked_test
+PSC-0379,SS-040,,,,,,"125,60",,17.39144521833333,True,G4_high,False,development
+PSC-0380,SS-040,,,,,,"125,60",,16.93431881666667,True,G4_high,False,development
+PSC-0381,SS-041,control,True,0.0,control,,"125,60",,15.4,True,G3_moderate,False,development
+PSC-0382,SS-041,control,True,0.0,control,,"125,60",,0.02,True,G1_nonfunctional,False,development
+PSC-0383,SS-041,control,True,0.0,control,,"125,60",,15.84,True,G3_moderate,False,development
+PSC-0384,SS-041,control,True,0.0,control,,"125,60",,16.46,True,G4_high,False,development
+PSC-0385,SS-041,control,True,0.0,control,,"125,60",,0.01,False,ARTIFACT,,
+PSC-0386,SS-041,control,True,0.0,control,,"125,60",,16.53,True,G4_high,False,development
+PSC-0387,SS-041,control,True,0.0,control,,"125,60",,1.03,True,G1_nonfunctional,False,development
+PSC-0388,SS-041,control,True,0.0,control,,"125,60",,16.97,True,G4_high,False,development
+PSC-0389,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,17.5,True,G4_high,False,development
+PSC-0390,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,0.43,True,G1_nonfunctional,False,development
+PSC-0391,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,11.3,True,G3_moderate,,
+PSC-0392,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,2.4,True,G1_nonfunctional,,
+PSC-0393,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,16.97,True,G4_high,False,development
+PSC-0394,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,18.37,True,G4_high,False,development
+PSC-0395,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,16.82,True,G4_high,False,development
+PSC-0396,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,17.9,True,G4_high,False,development
+PSC-0397,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,16.13,True,G3_moderate,,
+PSC-0398,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,16.76,True,G4_high,,
+PSC-0399,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,16.28,True,G3_moderate,False,development
+PSC-0400,SS-042,PDAI2,False,1.0,single,0.5,"125,60",,17.26,True,G4_high,False,development
+PSC-0401,SS-043,PbCl2,False,1.0,single,2.5,"125,60",,11.42,True,G3_moderate,False,locked_test
+PSC-0402,SS-043,PbCl2,False,1.0,single,2.5,"125,60",,17.84,True,G4_high,False,locked_test
+PSC-0403,SS-043,PbCl2,False,1.0,single,2.5,"125,60",,16.39,True,G4_high,False,locked_test
+PSC-0404,SS-043,PbCl2,False,1.0,single,2.5,"125,60",,17.1,True,G4_high,False,locked_test
+PSC-0405,SS-043,PbCl2,False,1.0,single,2.5,"125,60",,0.84,True,G1_nonfunctional,False,locked_test
+PSC-0406,SS-043,PbCl2,False,1.0,single,2.5,"125,60",,17.24,True,G4_high,False,locked_test
+PSC-0407,SS-043,PbCl2,False,1.0,single,2.5,"125,60",,8.11,True,G2_low,False,locked_test
+PSC-0408,SS-043,PbCl2,False,1.0,single,2.5,"125,60",,16.81,True,G4_high,False,locked_test
+PSC-0409,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,19.3,True,G4_high,False,development
+PSC-0410,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,20.6,True,G4_high,False,development
+PSC-0411,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,7.99,True,G2_low,False,development
+PSC-0412,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,19.33,True,G4_high,False,development
+PSC-0413,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,0.58,True,G1_nonfunctional,False,development
+PSC-0414,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,7.02,True,G2_low,False,development
+PSC-0415,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,18.35,True,G4_high,False,development
+PSC-0416,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,15.59,True,G3_moderate,False,development
+PSC-0417,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,18.88,True,G4_high,False,development
+PSC-0418,SS-044,"PbCl2, PDAI2",False,2.0,mixture,"2.5,0.5","125,60",,3.37,True,G1_nonfunctional,False,development
+PSC-0419,SS-045,PbCl2,False,1.0,single,5,"125,60",,16.88,True,G4_high,False,development
+PSC-0420,SS-045,PbCl2,False,1.0,single,5,"125,60",,18.19,True,G4_high,False,development
+PSC-0421,SS-045,PbCl2,False,1.0,single,5,"125,60",,1.71,True,G1_nonfunctional,False,development
+PSC-0422,SS-045,PbCl2,False,1.0,single,5,"125,60",,17.73,True,G4_high,False,development
+PSC-0423,SS-045,PbCl2,False,1.0,single,5,"125,60",,16.2,True,G3_moderate,False,development
+PSC-0424,SS-045,PbCl2,False,1.0,single,5,"125,60",,16.75,True,G4_high,False,development
+PSC-0425,SS-045,PbCl2,False,1.0,single,5,"125,60",,16.48,True,G4_high,False,development
+PSC-0426,SS-045,PbCl2,False,1.0,single,5,"125,60",,17.07,True,G4_high,False,development
+PSC-0427,SS-046,"PbCl2, PDAI2",False,2.0,mixture,"5,0.5","125,60",,18.92,True,G4_high,False,development
+PSC-0428,SS-046,"PbCl2, PDAI2",False,2.0,mixture,"5,0.5","125,60",,16.64,True,G4_high,False,development
+PSC-0429,SS-046,"PbCl2, PDAI2",False,2.0,mixture,"5,0.5","125,60",,19.65,True,G4_high,False,development
+PSC-0430,SS-046,"PbCl2, PDAI2",False,2.0,mixture,"5,0.5","125,60",,20.78,True,G4_high,False,development
+PSC-0431,SS-046,"PbCl2, PDAI2",False,2.0,mixture,"5,0.5","125,60",,18.81,True,G4_high,False,development
+PSC-0432,SS-046,"PbCl2, PDAI2",False,2.0,mixture,"5,0.5","125,60",,20.11,True,G4_high,False,development
+PSC-0433,SS-046,"PbCl2, PDAI2",False,2.0,mixture,"5,0.5","125,60",,0.0,False,ARTIFACT,,
+PSC-0434,SS-046,"PbCl2, PDAI2",False,2.0,mixture,"5,0.5","125,60",,0.07,True,G1_nonfunctional,False,development
+PSC-0435,SS-047,control,True,0.0,control,,"125,60",,0.21,True,G1_nonfunctional,False,locked_test
+PSC-0436,SS-047,control,True,0.0,control,,"125,60",,17.45,True,G4_high,False,locked_test
+PSC-0437,SS-047,control,True,0.0,control,,"125,60",,16.76,True,G4_high,False,locked_test
+PSC-0438,SS-047,control,True,0.0,control,,"125,60",,17.65,True,G4_high,False,locked_test
+PSC-0439,SS-047,control,True,0.0,control,,"125,60",,12.89,True,G3_moderate,False,locked_test
+PSC-0440,SS-047,control,True,0.0,control,,"125,60",,0.14,True,G1_nonfunctional,False,locked_test
+PSC-0441,SS-047,control,True,0.0,control,,"125,60",,17.28,True,G4_high,False,locked_test
+PSC-0442,SS-047,control,True,0.0,control,,"125,60",,17.85,True,G4_high,False,locked_test
+PSC-0443,SS-048,PbCl2,False,1.0,single,2.5,"125,60",,17.41,True,G4_high,False,locked_test
+PSC-0444,SS-048,PbCl2,False,1.0,single,2.5,"125,60",,17.19,True,G4_high,False,locked_test
+PSC-0445,SS-048,PbCl2,False,1.0,single,2.5,"125,60",,3.41,True,G1_nonfunctional,False,locked_test
+PSC-0446,SS-048,PbCl2,False,1.0,single,2.5,"125,60",,17.24,True,G4_high,False,locked_test
+PSC-0447,SS-048,PbCl2,False,1.0,single,2.5,"125,60",,15.82,True,G3_moderate,False,locked_test
+PSC-0448,SS-048,PbCl2,False,1.0,single,2.5,"125,60",,17.69,True,G4_high,False,locked_test
+PSC-0449,SS-048,PbCl2,False,1.0,single,2.5,"125,60",,17.66,True,G4_high,False,locked_test
+PSC-0450,SS-048,PbCl2,False,1.0,single,2.5,"125,60",,18.42,True,G4_high,False,locked_test
+PSC-0451,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,16.35,True,G3_moderate,False,development
+PSC-0452,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,0.08,True,G1_nonfunctional,False,development
+PSC-0453,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,5.41,True,G2_low,False,development
+PSC-0454,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,15.84,True,G3_moderate,False,development
+PSC-0455,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,15.25,True,G3_moderate,False,development
+PSC-0456,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,10.86,True,G2_low,False,development
+PSC-0457,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,14.94,True,G3_moderate,False,development
+PSC-0458,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,16.99,True,G4_high,False,development
+PSC-0459,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,14.21,True,G3_moderate,False,development
+PSC-0460,SS-049,"PbCl2, MAI",False,2.0,mixture,"2.5, 0.5","125,60",,16.2,True,G3_moderate,False,development
+PSC-0461,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,16.57,True,G4_high,False,development
+PSC-0462,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,17.57,True,G4_high,False,development
+PSC-0463,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,16.65,True,G4_high,False,development
+PSC-0464,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,19.13,True,G4_high,False,development
+PSC-0465,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,0.42,True,G1_nonfunctional,False,development
+PSC-0466,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,18.45,True,G4_high,False,development
+PSC-0467,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,15.88,True,G3_moderate,False,development
+PSC-0468,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,17.9,True,G4_high,False,development
+PSC-0469,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,13.43,True,G3_moderate,False,development
+PSC-0470,SS-050,"PbCl2, PDAI2",False,2.0,mixture,"2.5, 0.5","125,60",,18.47,True,G4_high,False,development
+PSC-0471,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,16.53,True,G4_high,False,development
+PSC-0472,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,17.58,True,G4_high,False,development
+PSC-0473,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,18.18,True,G4_high,False,development
+PSC-0474,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,17.99,True,G4_high,False,development
+PSC-0475,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,17.43,True,G4_high,False,development
+PSC-0476,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,17.77,True,G4_high,False,development
+PSC-0477,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,15.08,True,G3_moderate,False,development
+PSC-0478,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,17.86,True,G4_high,False,development
+PSC-0479,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,16.49,True,G4_high,False,development
+PSC-0480,SS-051,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,0.5","125,60",,1.36,True,G1_nonfunctional,False,development
+PSC-0481,SS-052,control,True,0.0,control,,"125,60",,5.617147954444444,True,G2_low,False,development
+PSC-0482,SS-052,control,True,0.0,control,,"125,60",,2.380947315,True,G1_nonfunctional,False,development
+PSC-0483,SS-052,control,True,0.0,control,,"125,60",,7.880978745555557,True,G2_low,False,development
+PSC-0484,SS-052,control,True,0.0,control,,"125,60",,15.9387472,True,G3_moderate,False,development
+PSC-0485,SS-052,control,True,0.0,control,,"125,60",,0.0,False,ARTIFACT,,
+PSC-0486,SS-052,control,True,0.0,control,,"125,60",,14.97740848555555,True,G3_moderate,False,development
+PSC-0487,SS-052,control,True,0.0,control,,"125,60",,18.15870288,True,G4_high,False,development
+PSC-0488,SS-052,control,True,0.0,control,,"125,60",,15.92769399444444,True,G3_moderate,False,development
+PSC-0489,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,16.52712046444444,True,G4_high,False,
+PSC-0490,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,16.33001931166667,True,G3_moderate,False,
+PSC-0491,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,1.796450593333333,True,G1_nonfunctional,False,development
+PSC-0492,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,4.478031286111111,True,G1_nonfunctional,False,development
+PSC-0493,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,18.32931720666667,True,G4_high,False,development
+PSC-0494,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,19.38141071333334,True,G4_high,False,development
+PSC-0495,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,18.93613889333333,True,G4_high,False,development
+PSC-0496,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,18.91368438,True,G4_high,False,development
+PSC-0497,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,19.27139446222222,True,G4_high,False,development
+PSC-0498,SS-053,"PDAI2, MAI",False,2.0,mixture,"0.5,1","125,60",,18.94437476888889,True,G4_high,False,development
+PSC-0499,SS-054,PbCl2,False,1.0,single,2.5,"125,60",,0.546354312,True,G1_nonfunctional,False,development
+PSC-0500,SS-054,PbCl2,False,1.0,single,2.5,"125,60",,16.32627231666667,True,G3_moderate,False,development
+PSC-0501,SS-054,PbCl2,False,1.0,single,2.5,"125,60",,16.63280266666667,True,G4_high,False,development
+PSC-0502,SS-054,PbCl2,False,1.0,single,2.5,"125,60",,13.4181828,True,G3_moderate,False,development
+PSC-0503,SS-054,PbCl2,False,1.0,single,2.5,"125,60",,16.62530002833333,True,G4_high,False,development
+PSC-0504,SS-054,PbCl2,False,1.0,single,2.5,"125,60",,16.96508986666667,True,G4_high,False,development
+PSC-0505,SS-054,PbCl2,False,1.0,single,2.5,"125,60",,17.1511214,True,G4_high,False,development
+PSC-0506,SS-054,PbCl2,False,1.0,single,2.5,"125,60",,16.00114411833333,True,G3_moderate,False,development
+PSC-0507,SS-055,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,1","125,60",,18.12075118,True,G4_high,False,locked_test
+PSC-0508,SS-055,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,1","125,60",,18.83194643,True,G4_high,False,locked_test
+PSC-0509,SS-055,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,1","125,60",,19.01688895333333,True,G4_high,False,locked_test
+PSC-0510,SS-055,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,1","125,60",,19.60406792666667,True,G4_high,False,locked_test
+PSC-0511,SS-055,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,1","125,60",,18.891123625,True,G4_high,False,locked_test
+PSC-0512,SS-055,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,1","125,60",,18.80930245333333,True,G4_high,False,locked_test
+PSC-0513,SS-055,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,1","125,60",,18.86231222333333,True,G4_high,False,locked_test
+PSC-0514,SS-055,"PbCl2, PDAI2, MAI",False,3.0,mixture,"2.5, 0.5,1","125,60",,16.17677210444445,True,G3_moderate,False,locked_test
+PSC-0515,SS-056,PbCl2,False,1.0,single,5,"125,60",,18.46018367,True,G4_high,False,development
+PSC-0516,SS-056,PbCl2,False,1.0,single,5,"125,60",,18.36464822666667,True,G4_high,False,development
+PSC-0517,SS-056,PbCl2,False,1.0,single,5,"125,60",,18.72414935722222,True,G4_high,False,development
+PSC-0518,SS-056,PbCl2,False,1.0,single,5,"125,60",,18.62867959333334,True,G4_high,False,development
+PSC-0519,SS-056,PbCl2,False,1.0,single,5,"125,60",,18.81574403388889,True,G4_high,False,development
+PSC-0520,SS-056,PbCl2,False,1.0,single,5,"125,60",,8.708302778333334,True,G2_low,,
+PSC-0521,SS-056,PbCl2,False,1.0,single,5,"125,60",,18.02473403166667,True,G4_high,False,development
+PSC-0522,SS-056,PbCl2,False,1.0,single,5,"125,60",,18.19465105888889,True,G4_high,False,development
+PSC-0523,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,7.466537000000001,True,G2_low,False,development
+PSC-0524,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,3.302328752777778,True,G1_nonfunctional,False,development
+PSC-0525,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,18.20849136888889,True,G4_high,False,development
+PSC-0526,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,19.70860327333333,True,G4_high,False,development
+PSC-0527,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,19.70524378166666,True,G4_high,False,development
+PSC-0528,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,19.95004542666667,True,G4_high,False,development
+PSC-0529,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,0.0,False,ARTIFACT,,
+PSC-0530,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,18.66165746,True,G4_high,False,development
+PSC-0531,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,19.90233061666666,True,G4_high,False,development
+PSC-0532,SS-057,"PbCl2, PDAI2, MAI",False,3.0,mixture,"5, 0.5,1","125,60",,19.80143362166667,True,G4_high,False,development
+PSC-0533,SS-058,control,True,0.0,control,,"125,60",,18.22173906111111,True,G4_high,False,development
+PSC-0534,SS-058,control,True,0.0,control,,"125,60",,0.0760562934444444,True,G1_nonfunctional,False,development
+PSC-0535,SS-058,control,True,0.0,control,,"125,60",,1.290151902722222,True,G1_nonfunctional,False,development
+PSC-0536,SS-058,control,True,0.0,control,,"125,60",,15.58472076,True,G3_moderate,False,development
+PSC-0537,SS-058,control,True,0.0,control,,"125,60",,15.68958732444444,True,G3_moderate,False,development
+PSC-0538,SS-058,control,True,0.0,control,,"125,60",,3.440346564666667,True,G1_nonfunctional,False,development
+PSC-0539,SS-058,control,True,0.0,control,,"125,60",,17.00229363777778,True,G4_high,False,development
+PSC-0540,SS-058,control,True,0.0,control,,"125,60",,17.2247641,True,G4_high,False,development
+PSC-0541,SS-058,control,True,0.0,control,,"125,60",,18.06297499611111,True,G4_high,False,
+PSC-0542,SS-058,control,True,0.0,control,,"125,60",,17.50869576666667,True,G4_high,False,
+PSC-0543,SS-059,control,True,0.0,control,,"125,60",,19.44999683777778,True,G4_high,False,development
+PSC-0544,SS-059,control,True,0.0,control,,"125,60",,19.42442861111111,True,G4_high,False,development
+PSC-0545,SS-059,control,True,0.0,control,,"125,60",,19.49111451888889,True,G4_high,False,
+PSC-0546,SS-059,control,True,0.0,control,,"125,60",,18.76931662222222,True,G4_high,False,
+PSC-0547,SS-059,control,True,0.0,control,,"125,60",,13.82213865666666,True,G3_moderate,False,development
+PSC-0548,SS-059,control,True,0.0,control,,"125,60",,1.150164944444444,True,G1_nonfunctional,False,development
+PSC-0549,SS-059,control,True,0.0,control,,"125,60",,19.14857824,True,G4_high,False,development
+PSC-0550,SS-059,control,True,0.0,control,,"125,60",,19.43496629777778,True,G4_high,False,development
+PSC-0551,SS-059,control,True,0.0,control,,"125,60",,19.11888641777778,True,G4_high,False,development
+PSC-0552,SS-059,control,True,0.0,control,,"125,60",,14.75265475,True,G3_moderate,False,development
+PSC-0553,SS-060,3-APy,False,1.0,single,,"125,60",,0.2011146952222222,True,G1_nonfunctional,False,development
+PSC-0554,SS-060,3-APy,False,1.0,single,,"125,60",,0.7125416339999999,True,G1_nonfunctional,False,development
+PSC-0555,SS-060,3-APy,False,1.0,single,,"125,60",,15.76168616666667,True,G3_moderate,False,development
+PSC-0556,SS-060,3-APy,False,1.0,single,,"125,60",,16.65619886222222,True,G4_high,False,development
+PSC-0557,SS-060,3-APy,False,1.0,single,,"125,60",,2.071108913333333,True,G1_nonfunctional,False,development
+PSC-0558,SS-060,3-APy,False,1.0,single,,"125,60",,19.32171282888889,True,G4_high,False,development
+PSC-0559,SS-060,3-APy,False,1.0,single,,"125,60",,5.563647069444444,True,G2_low,False,development
+PSC-0560,SS-060,3-APy,False,1.0,single,,"125,60",,18.84606917166667,True,G4_high,False,development
+PSC-0561,SS-060,3-APy,False,1.0,single,,"125,60",,16.94307491555556,True,G4_high,False,development
+PSC-0562,SS-060,3-APy,False,1.0,single,,"125,60",,16.11279257333333,True,G3_moderate,False,development
+PSC-0563,SS-061,control,True,0.0,control,,"125,60",,19.46587916388889,True,G4_high,False,development
+PSC-0564,SS-061,control,True,0.0,control,,"125,60",,18.84548919888889,True,G4_high,False,development
+PSC-0565,SS-061,control,True,0.0,control,,"125,60",,19.42859893,True,G4_high,False,development
+PSC-0566,SS-061,control,True,0.0,control,,"125,60",,19.50716328166667,True,G4_high,False,development
+PSC-0567,SS-061,control,True,0.0,control,,"125,60",,18.88995601777777,True,G4_high,False,development
+PSC-0568,SS-061,control,True,0.0,control,,"125,60",,0.6216778627777779,True,G1_nonfunctional,False,development
+PSC-0569,SS-061,control,True,0.0,control,,"125,60",,0.5864234706111111,True,G1_nonfunctional,False,development
+PSC-0570,SS-061,control,True,0.0,control,,"125,60",,0.062240427,True,G1_nonfunctional,False,development
+PSC-0571,SS-061,control,True,0.0,control,,"125,60",,0.2974882764444445,True,G1_nonfunctional,False,development
+PSC-0572,SS-061,control,True,0.0,control,,"125,60",,14.55085695777778,True,G3_moderate,False,development
+PSC-0573,SS-062,control,True,0.0,control,,"100,20",,4.923714452222223,True,G2_low,False,development
+PSC-0574,SS-062,control,True,0.0,control,,"100,20",,14.95882746,True,G3_moderate,False,development
+PSC-0575,SS-062,control,True,0.0,control,,"100,20",,7.495179648000001,True,G2_low,False,development
+PSC-0576,SS-062,control,True,0.0,control,,"100,20",,15.27035368,True,G3_moderate,False,development
+PSC-0577,SS-062,control,True,0.0,control,,"100,20",,14.90294032222222,True,G3_moderate,False,development
+PSC-0578,SS-062,control,True,0.0,control,,"100,20",,0.1560065764444444,True,G1_nonfunctional,False,development
+PSC-0579,SS-062,control,True,0.0,control,,"100,20",,15.20115277,True,G3_moderate,False,development
+PSC-0580,SS-062,control,True,0.0,control,,"100,20",,15.65617098,True,G3_moderate,False,development
+PSC-0581,SS-062,control,True,0.0,control,,"100,20",,15.96113176,True,G3_moderate,False,development
+PSC-0582,SS-062,control,True,0.0,control,,"100,20",,15.28737302,True,G3_moderate,False,development
+PSC-0583,SS-063,control,True,0.0,control,,"125,60",,16.29684409379172,True,G3_moderate,False,locked_test
+PSC-0584,SS-063,control,True,0.0,control,,"125,60",,16.15931520360481,True,G3_moderate,False,locked_test
+PSC-0585,SS-063,control,True,0.0,control,,"125,60",,17.24502820260347,True,G4_high,False,locked_test
+PSC-0586,SS-063,control,True,0.0,control,,"125,60",,16.90537889574989,True,G4_high,False,locked_test
+PSC-0587,SS-063,control,True,0.0,control,,"125,60",,17.35644528371161,True,G4_high,False,locked_test
+PSC-0588,SS-063,control,True,0.0,control,,"125,60",,17.47801014686248,True,G4_high,False,
+PSC-0589,SS-063,control,True,0.0,control,,"125,60",,17.64210097018247,True,G4_high,False,locked_test
+PSC-0590,SS-063,control,True,0.0,control,,"125,60",,17.58656869158879,True,G4_high,False,locked_test
+PSC-0591,SS-063,control,True,0.0,control,,"125,60",,13.88798421228304,True,G3_moderate,False,locked_test
+PSC-0592,SS-063,control,True,0.0,control,,"125,60",,17.64400373831776,True,G4_high,False,locked_test
+PSC-0593,SS-064,control,True,0.0,control,,"125,60",,17.49305472777777,True,G4_high,False,development
+PSC-0594,SS-064,control,True,0.0,control,,"125,60",,13.30872734666667,True,G3_moderate,False,development
+PSC-0595,SS-064,control,True,0.0,control,,"125,60",,18.07937273333334,True,G4_high,False,development
+PSC-0596,SS-064,control,True,0.0,control,,"125,60",,18.57130113333334,True,G4_high,False,
+PSC-0597,SS-064,control,True,0.0,control,,"125,60",,17.6481956,True,G4_high,False,development
+PSC-0598,SS-064,control,True,0.0,control,,"125,60",,17.32448749944444,True,G4_high,False,development
+PSC-0599,SS-064,control,True,0.0,control,,"125,60",,18.28035909777778,True,G4_high,False,development
+PSC-0600,SS-064,control,True,0.0,control,,"125,60",,18.384615,True,G4_high,False,development
+PSC-0601,SS-064,control,True,0.0,control,,"125,60",,15.40610174166667,True,G3_moderate,False,development
+PSC-0602,SS-064,control,True,0.0,control,,"125,60",,18.33745069888889,True,G4_high,False,development
+PSC-0603,SS-065,control,True,0.0,control,,"125,60",,17.41908093333334,True,G4_high,False,development
+PSC-0604,SS-065,control,True,0.0,control,,"125,60",,17.81905626666667,True,G4_high,False,development
+PSC-0605,SS-065,control,True,0.0,control,,"125,60",,18.09739866666667,True,G4_high,False,development
+PSC-0606,SS-065,control,True,0.0,control,,"125,60",,18.46108696888889,True,G4_high,False,development
+PSC-0607,SS-065,control,True,0.0,control,,"125,60",,18.84583159277778,True,G4_high,False,development
+PSC-0608,SS-065,control,True,0.0,control,,"125,60",,18.63082673833333,True,G4_high,False,
+PSC-0609,SS-065,control,True,0.0,control,,"125,60",,18.636434595,True,G4_high,False,development
+PSC-0610,SS-065,control,True,0.0,control,,"125,60",,18.03508490666667,True,G4_high,False,development
+PSC-0611,SS-065,control,True,0.0,control,,"125,60",,18.08688314944444,True,G4_high,False,development
+PSC-0612,SS-065,control,True,0.0,control,,"125,60",,0.3490438170555555,True,G1_nonfunctional,False,development
+PSC-0613,SS-066,3-APy,False,1.0,single,,"125,60",,14.39048981,True,G3_moderate,False,development
+PSC-0614,SS-066,3-APy,False,1.0,single,,"125,60",,14.74722532833333,True,G3_moderate,False,development
+PSC-0615,SS-066,3-APy,False,1.0,single,,"125,60",,14.382237755,True,G3_moderate,False,development
+PSC-0616,SS-066,3-APy,False,1.0,single,,"125,60",,0.2629094623333334,True,G1_nonfunctional,False,development
+PSC-0617,SS-066,3-APy,False,1.0,single,,"125,60",,14.45619805,True,G3_moderate,False,development
+PSC-0618,SS-066,3-APy,False,1.0,single,,"125,60",,13.91190930888889,True,G3_moderate,False,development
+PSC-0619,SS-066,3-APy,False,1.0,single,,"125,60",,15.23607566277778,True,G3_moderate,False,development
+PSC-0620,SS-066,3-APy,False,1.0,single,,"125,60",,11.39517975333333,True,G3_moderate,False,development
+PSC-0621,SS-066,3-APy,False,1.0,single,,"125,60",,14.72017135,True,G3_moderate,False,development
+PSC-0622,SS-066,3-APy,False,1.0,single,,"125,60",,14.68103680111111,True,G3_moderate,False,development
+PSC-0623,SS-067,control,True,0.0,control,,"125,60",,0.2114342126666666,True,G1_nonfunctional,False,development
+PSC-0624,SS-067,control,True,0.0,control,,"125,60",,0.5897558415,True,G1_nonfunctional,False,development
+PSC-0625,SS-067,control,True,0.0,control,,"125,60",,15.37334106388889,True,G3_moderate,False,development
+PSC-0626,SS-067,control,True,0.0,control,,"125,60",,4.184904872333334,True,G1_nonfunctional,False,
+PSC-0627,SS-067,control,True,0.0,control,,"125,60",,0.4654018711666666,True,G1_nonfunctional,False,development
+PSC-0628,SS-067,control,True,0.0,control,,"125,60",,0.5131499710555556,True,G1_nonfunctional,False,
+PSC-0629,SS-067,control,True,0.0,control,,"125,60",,2.6560618,True,G1_nonfunctional,False,development
+PSC-0630,SS-067,control,True,0.0,control,,"125,60",,16.59853915,True,G4_high,False,development
+PSC-0631,SS-067,control,True,0.0,control,,"125,60",,2.686101386666667,True,G1_nonfunctional,False,development
+PSC-0632,SS-067,control,True,0.0,control,,"125,60",,9.023989263333332,True,G2_low,False,development
+PSC-0633,SS-068,control,True,0.0,control,,"125,60",,16.37901832,True,G4_high,False,
+PSC-0634,SS-068,control,True,0.0,control,,"125,60",,15.74953835277778,True,G3_moderate,False,
+PSC-0635,SS-068,control,True,0.0,control,,"125,60",,1.03,True,G1_nonfunctional,False,
+PSC-0636,SS-068,control,True,0.0,control,,"125,60",,18.85545563722222,True,G4_high,False,development
+PSC-0637,SS-068,control,True,0.0,control,,"125,60",,18.20423171444444,True,G4_high,False,development
+PSC-0638,SS-068,control,True,0.0,control,,"125,60",,16.1421745,True,G3_moderate,False,
+PSC-0639,SS-068,control,True,0.0,control,,"125,60",,17.23929648444444,True,G4_high,False,
+PSC-0640,SS-068,control,True,0.0,control,,"125,60",,18.60211192111111,True,G4_high,False,
+PSC-0641,SS-068,control,True,0.0,control,,"125,60",,17.67618570666667,True,G4_high,False,
+PSC-0642,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,16.41453355833334,True,G4_high,False,
+PSC-0643,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,0.2608355408888889,True,G1_nonfunctional,False,
+PSC-0644,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,16.4871056,True,G4_high,False,
+PSC-0645,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,16.02615138333333,True,G3_moderate,False,
+PSC-0646,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,1.12,True,G1_nonfunctional,False,
+PSC-0647,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,16.183004365,True,G3_moderate,False,
+PSC-0648,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,16.64504615055555,True,G4_high,False,
+PSC-0649,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,16.48911070777778,True,G4_high,False,development
+PSC-0650,SS-069,DMEACl,False,1.0,single,0.05,"125,60",,15.20545855,True,G3_moderate,False,
+PSC-0651,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,17.04991864,True,G4_high,False,
+PSC-0652,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,17.11146773722222,True,G4_high,False,
+PSC-0653,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,2.910482184166666,True,G1_nonfunctional,False,
+PSC-0654,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,16.91663788,True,G4_high,False,
+PSC-0655,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,2.14,True,G1_nonfunctional,False,
+PSC-0656,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,17.19731491555556,True,G4_high,False,locked_test
+PSC-0657,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,16.93818981777778,True,G4_high,False,locked_test
+PSC-0658,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,16.20309152,True,G3_moderate,False,
+PSC-0659,SS-070,DMEACl,False,1.0,single,0.1,"125,60",,17.20174939555556,True,G4_high,False,
+PSC-0660,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,14.69675875555555,True,G3_moderate,False,
+PSC-0661,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,14.31610282666666,True,G3_moderate,False,
+PSC-0662,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,11.4933074,True,G3_moderate,,
+PSC-0663,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,15.2140828,True,G3_moderate,,
+PSC-0664,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,14.54544746666667,True,G3_moderate,,
+PSC-0665,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,13.14778073722222,True,G3_moderate,,
+PSC-0666,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,1.92,True,G1_nonfunctional,False,
+PSC-0667,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,15.02595873333334,True,G3_moderate,,
+PSC-0668,SS-071,DMEACl,False,1.0,single,0.25,"125,60",,15.4074382,True,G3_moderate,,
+PSC-0669,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,11.40045485833333,True,G3_moderate,,
+PSC-0670,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,10.22493808333333,True,G2_low,,
+PSC-0671,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,1.56,True,G1_nonfunctional,False,
+PSC-0672,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,12.20959528944445,True,G3_moderate,,
+PSC-0673,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,11.41202445833333,True,G3_moderate,,
+PSC-0674,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,12.47162458388889,True,G3_moderate,,
+PSC-0675,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,12.28748335,True,G3_moderate,,
+PSC-0676,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,12.54604325,True,G3_moderate,,
+PSC-0677,SS-072,DMEACl,False,1.0,single,0.5,"125,60",,11.93739965,True,G3_moderate,,
+PSC-0678,SS-073,DMEACl,False,1.0,single,1,"125,60",,9.02226685,True,G2_low,,
+PSC-0679,SS-073,DMEACl,False,1.0,single,1,"125,60",,9.921051753333334,True,G2_low,,
+PSC-0680,SS-073,DMEACl,False,1.0,single,1,"125,60",,9.51110925,True,G2_low,,
+PSC-0681,SS-073,DMEACl,False,1.0,single,1,"125,60",,9.16129353111111,True,G2_low,,
+PSC-0682,SS-073,DMEACl,False,1.0,single,1,"125,60",,9.275409894444444,True,G2_low,,
+PSC-0683,SS-073,DMEACl,False,1.0,single,1,"125,60",,9.388623099999998,True,G2_low,,
+PSC-0684,SS-073,DMEACl,False,1.0,single,1,"125,60",,9.797421453333332,True,G2_low,,
+PSC-0685,SS-073,DMEACl,False,1.0,single,1,"125,60",,10.16704891611111,True,G2_low,,
+PSC-0686,SS-074,control,True,0.0,control,,"125,60",,17.34287935222222,True,G4_high,False,
+PSC-0687,SS-074,control,True,0.0,control,,"125,60",,17.46646332444444,True,G4_high,False,
+PSC-0688,SS-074,control,True,0.0,control,,"125,60",,17.09348806666667,True,G4_high,False,
+PSC-0689,SS-074,control,True,0.0,control,,"125,60",,17.04544683333333,True,G4_high,False,
+PSC-0690,SS-074,control,True,0.0,control,,"125,60",,16.79936049166667,True,G4_high,False,
+PSC-0691,SS-074,control,True,0.0,control,,"125,60",,17.21239006666667,True,G4_high,False,
+PSC-0692,SS-074,control,True,0.0,control,,"125,60",,17.67960401777778,True,G4_high,False,
+PSC-0693,SS-074,control,True,0.0,control,,"125,60",,17.65828928555555,True,G4_high,False,
+PSC-0694,SS-074,control,True,0.0,control,,"125,60",,17.05664380444444,True,G4_high,False,
+PSC-0695,SS-075,PEIE,False,1.0,single,0.025,"125,60",,18.69243556833334,True,G4_high,False,
+PSC-0696,SS-075,PEIE,False,1.0,single,0.025,"125,60",,18.02414469777778,True,G4_high,False,
+PSC-0697,SS-075,PEIE,False,1.0,single,0.025,"125,60",,19.112942745,True,G4_high,False,
+PSC-0698,SS-075,PEIE,False,1.0,single,0.025,"125,60",,19.05440276666667,True,G4_high,False,
+PSC-0699,SS-075,PEIE,False,1.0,single,0.025,"125,60",,18.88228669388889,True,G4_high,False,
+PSC-0700,SS-075,PEIE,False,1.0,single,0.025,"125,60",,18.22578579555556,True,G4_high,False,
+PSC-0701,SS-075,PEIE,False,1.0,single,0.025,"125,60",,18.85899863944444,True,G4_high,False,
+PSC-0702,SS-075,PEIE,False,1.0,single,0.025,"125,60",,1.642482285111111,True,G1_nonfunctional,False,development
+PSC-0703,SS-075,PEIE,False,1.0,single,0.025,"125,60",,19.02315261166667,True,G4_high,False,
+PSC-0704,SS-075,PEIE,False,1.0,single,0.025,"125,60",,17.39275139111111,True,G4_high,False,
+PSC-0705,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,17.40600695833334,True,G4_high,False,
+PSC-0706,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,17.34816537166667,True,G4_high,False,
+PSC-0707,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,17.10452590833333,True,G4_high,False,
+PSC-0708,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,16.23321803333333,True,G3_moderate,False,development
+PSC-0709,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,17.19112574166667,True,G4_high,False,
+PSC-0710,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,16.1470797,True,G3_moderate,False,
+PSC-0711,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,15.03746307777778,True,G3_moderate,False,development
+PSC-0712,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,16.38414455,True,G4_high,False,
+PSC-0713,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,3.748117026111111,True,G1_nonfunctional,False,
+PSC-0714,SS-076,Me-1PACz,False,1.0,single,0.3,"125,60",,7.270582275,True,G2_low,False,
+PSC-0715,SS-077,control,True,0.0,control,,"125,60",,16.9458073,True,G4_high,False,
+PSC-0716,SS-077,control,True,0.0,control,,"125,60",,15.56079579444445,True,G3_moderate,False,
+PSC-0717,SS-077,control,True,0.0,control,,"125,60",,15.99518733,True,G3_moderate,False,
+PSC-0718,SS-077,control,True,0.0,control,,"125,60",,11.10214624166667,True,G2_low,False,
+PSC-0719,SS-077,control,True,0.0,control,,"125,60",,17.68125841666667,True,G4_high,False,
+PSC-0720,SS-077,control,True,0.0,control,,"125,60",,17.26178312388889,True,G4_high,False,
+PSC-0721,SS-077,control,True,0.0,control,,"125,60",,17.33501160611111,True,G4_high,False,
+PSC-0722,SS-077,control,True,0.0,control,,"125,60",,17.20464895,True,G4_high,False,development
+PSC-0723,SS-077,control,True,0.0,control,,"125,60",,18.11669253333333,True,G4_high,False,
+PSC-0724,SS-077,control,True,0.0,control,,"125,60",,18.48757523111111,True,G4_high,False,
+PSC-0725,SS-078,control,True,0.0,control,,"125,60",,18.28668386444444,True,G4_high,False,
+PSC-0726,SS-078,control,True,0.0,control,,"125,60",,0.3681766581111111,True,G1_nonfunctional,False,
+PSC-0727,SS-078,control,True,0.0,control,,"125,60",,17.28060749055556,True,G4_high,False,
+PSC-0728,SS-078,control,True,0.0,control,,"125,60",,17.06628105277778,True,G4_high,False,
+PSC-0729,SS-078,control,True,0.0,control,,"125,60",,18.66200309,True,G4_high,False,
+PSC-0730,SS-078,control,True,0.0,control,,"125,60",,18.22453574666667,True,G4_high,False,
+PSC-0731,SS-078,control,True,0.0,control,,"125,60",,18.44240830666666,True,G4_high,False,
+PSC-0732,SS-078,control,True,0.0,control,,"125,60",,18.30582759277778,True,G4_high,False,
+PSC-0733,SS-078,control,True,0.0,control,,"125,60",,17.81419123111111,True,G4_high,False,
+PSC-0734,SS-078,control,True,0.0,control,,"125,60",,17.80371693333333,True,G4_high,False,
+PSC-0735,SS-079,PEIE,False,1.0,single,0.025,"125,60",,9.792036402777777,True,G2_low,False,
+PSC-0736,SS-079,PEIE,False,1.0,single,0.025,"125,60",,8.78440623,True,G2_low,False,
+PSC-0737,SS-079,PEIE,False,1.0,single,0.025,"125,60",,11.03693103888889,True,G2_low,False,
+PSC-0738,SS-079,PEIE,False,1.0,single,0.025,"125,60",,9.9876141,True,G2_low,False,
+PSC-0739,SS-079,PEIE,False,1.0,single,0.025,"125,60",,9.594551085,True,G2_low,False,
+PSC-0740,SS-079,PEIE,False,1.0,single,0.025,"125,60",,9.355788545,True,G2_low,False,
+PSC-0741,SS-079,PEIE,False,1.0,single,0.025,"125,60",,10.76944493,True,G2_low,False,
+PSC-0742,SS-079,PEIE,False,1.0,single,0.025,"125,60",,11.13510008333333,True,G2_low,False,
+PSC-0743,SS-079,PEIE,False,1.0,single,0.025,"125,60",,15.55182743166667,True,G3_moderate,False,
+PSC-0744,SS-079,PEIE,False,1.0,single,0.025,"125,60",,15.00111409166667,True,G3_moderate,False,
+PSC-0745,SS-080,control,True,0.0,control,,"125,60",,11.700386855,True,G3_moderate,False,
+PSC-0746,SS-080,control,True,0.0,control,,"125,60",,11.50384955,True,G3_moderate,False,
+PSC-0747,SS-080,control,True,0.0,control,,"125,60",,15.3521102,True,G3_moderate,False,
+PSC-0748,SS-080,control,True,0.0,control,,"125,60",,15.31636866666667,True,G3_moderate,False,
+PSC-0749,SS-080,control,True,0.0,control,,"125,60",,15.20405103833333,True,G3_moderate,False,
+PSC-0750,SS-080,control,True,0.0,control,,"125,60",,14.43298244,True,G3_moderate,False,
+PSC-0751,SS-080,control,True,0.0,control,,"125,60",,14.90760582555556,True,G3_moderate,False,
+PSC-0752,SS-080,control,True,0.0,control,,"125,60",,14.11343601166667,True,G3_moderate,False,
+PSC-0753,SS-080,control,True,0.0,control,,"125,60",,14.49444006111111,True,G3_moderate,False,
+PSC-0754,SS-081,PACl,False,1.0,single,2.5,"125,60",,9.52635635,True,G2_low,False,
+PSC-0755,SS-081,PACl,False,1.0,single,2.5,"125,60",,9.05855595,True,G2_low,False,
+PSC-0756,SS-081,PACl,False,1.0,single,2.5,"125,60",,7.550757204999999,True,G2_low,False,
+PSC-0757,SS-081,PACl,False,1.0,single,2.5,"125,60",,8.20312016,True,G2_low,False,
+PSC-0758,SS-081,PACl,False,1.0,single,2.5,"125,60",,7.608219056666666,True,G2_low,False,
+PSC-0759,SS-081,PACl,False,1.0,single,2.5,"125,60",,8.765932365555555,True,G2_low,False,
+PSC-0760,SS-081,PACl,False,1.0,single,2.5,"125,60",,8.291344063333334,True,G2_low,False,
+PSC-0761,SS-081,PACl,False,1.0,single,2.5,"125,60",,9.210291642222222,True,G2_low,False,
+PSC-0762,SS-081,PACl,False,1.0,single,2.5,"125,60",,8.795076204444443,True,G2_low,False,
+PSC-0763,SS-081,PACl,False,1.0,single,2.5,"125,60",,8.805426583333333,True,G2_low,False,
+PSC-0764,SS-082,PACl,False,1.0,single,5,"125,60",,7.724744700444443,True,G2_low,False,
+PSC-0765,SS-082,PACl,False,1.0,single,5,"125,60",,7.961063390777778,True,G2_low,False,
+PSC-0766,SS-082,PACl,False,1.0,single,5,"125,60",,8.094076020555555,True,G2_low,False,
+PSC-0767,SS-082,PACl,False,1.0,single,5,"125,60",,7.666073661666666,True,G2_low,False,
+PSC-0768,SS-082,PACl,False,1.0,single,5,"125,60",,9.278010155555556,True,G2_low,False,
+PSC-0769,SS-082,PACl,False,1.0,single,5,"125,60",,8.64471721,True,G2_low,False,
+PSC-0770,SS-082,PACl,False,1.0,single,5,"125,60",,6.957300252777778,True,G2_low,False,
+PSC-0771,SS-082,PACl,False,1.0,single,5,"125,60",,7.343936641999998,True,G2_low,False,
+PSC-0772,SS-082,PACl,False,1.0,single,5,"125,60",,8.059038446555556,True,G2_low,False,
+PSC-0773,SS-082,PACl,False,1.0,single,5,"125,60",,5.698863019,True,G2_low,False,
+PSC-0774,SS-083,PACl,False,1.0,single,10,"125,60",,7.250309683555556,True,G2_low,False,
+PSC-0775,SS-083,PACl,False,1.0,single,10,"125,60",,7.353662099333333,True,G2_low,False,
+PSC-0776,SS-083,PACl,False,1.0,single,10,"125,60",,6.560140858555555,True,G2_low,False,
+PSC-0777,SS-083,PACl,False,1.0,single,10,"125,60",,6.317290975000001,True,G2_low,False,
+PSC-0778,SS-083,PACl,False,1.0,single,10,"125,60",,5.496263277555555,True,G2_low,False,
+PSC-0779,SS-083,PACl,False,1.0,single,10,"125,60",,7.581062659222222,True,G2_low,False,
+PSC-0780,SS-083,PACl,False,1.0,single,10,"125,60",,4.589229444222222,True,G2_low,False,
+PSC-0781,SS-083,PACl,False,1.0,single,10,"125,60",,4.935901848666666,True,G2_low,False,
+PSC-0782,SS-083,PACl,False,1.0,single,10,"125,60",,4.9857121665,True,G2_low,False,
+PSC-0783,SS-083,PACl,False,1.0,single,10,"125,60",,4.054841061333333,True,G1_nonfunctional,False,
+PSC-1050,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,6.55446818,True,G2_low,False,
+PSC-1054,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,4.047404862166666,True,G1_nonfunctional,False,
+PSC-1057,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,5.478493088,True,G2_low,False,development
+PSC-1061,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,8.275123217666668,True,G2_low,False,
+PSC-1065,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,8.272465839499999,True,G2_low,False,
+PSC-1066,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,8.093255144333334,True,G2_low,False,
+PSC-1067,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,8.454519861055555,True,G2_low,False,
+PSC-1068,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,7.760009602333334,True,G2_low,False,
+PSC-1069,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,7.980357014,True,G2_low,False,
+PSC-1070,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,6.996884792333333,True,G2_low,False,
+PSC-1071,SS-092,"3MTPAI, PDAI2_n",False,2.0,mixture,,"100,30",,6.594496213777778,True,G2_low,False,
+PSC-1072,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,13.40048599166667,True,G3_moderate,False,
+PSC-1076,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,13.74656943111111,True,G3_moderate,False,
+PSC-1080,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,14.40803927111111,True,G3_moderate,False,
+PSC-1084,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,12.96772114444444,True,G3_moderate,False,
+PSC-1088,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,12.14547419333333,True,G3_moderate,False,
+PSC-1089,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,13.48243787333334,True,G3_moderate,False,
+PSC-1090,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,13.82813850722222,True,G3_moderate,False,
+PSC-1091,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,12.93075087777778,True,G3_moderate,False,
+PSC-1092,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,14.26747845333333,True,G3_moderate,False,
+PSC-1093,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,14.04851728222222,True,G3_moderate,False,
+PSC-1094,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,13.80126958277778,True,G3_moderate,False,
+PSC-1095,SS-093,"3MTPAI, PDAI2_n, NiOx, SAM",False,4.0,mixture,,"100,30",,5.022822057,True,G2_low,False,
+PSC-1096,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,16.203030395,True,G3_moderate,False,
+PSC-1100,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,16.718600745,True,G4_high,False,
+PSC-1104,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,16.45587168444445,True,G4_high,False,
+PSC-1107,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,17.53229870333333,True,G4_high,False,development
+PSC-1111,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,16.55942970666667,True,G4_high,False,
+PSC-1115,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,14.55013341333333,True,G3_moderate,False,development
+PSC-1119,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,17.03735712888889,True,G4_high,False,
+PSC-1123,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,16.66799297333333,True,G4_high,False,
+PSC-1127,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,16.62655286166667,True,G4_high,False,development
+PSC-1131,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,16.18383827388889,True,G3_moderate,False,
+PSC-1135,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,15.79209037833333,True,G3_moderate,False,development
+PSC-1139,SS-094,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,,"100,30",,16.97663290666667,True,G4_high,False,
+PSC-1143,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,16.61440417222222,True,G4_high,False,
+PSC-1147,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,17.01611817888889,True,G4_high,False,
+PSC-1151,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,16.99363556666667,True,G4_high,False,
+PSC-1155,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,16.32035784,True,G3_moderate,False,
+PSC-1159,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,16.19044541333333,True,G3_moderate,False,
+PSC-1163,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,10.80463169333333,True,G2_low,False,
+PSC-1167,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,16.65754522666667,True,G4_high,False,
+PSC-1171,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,17.28821294444445,True,G4_high,False,
+PSC-1175,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,14.91974600444444,True,G3_moderate,False,
+PSC-1179,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,16.01536116555556,True,G3_moderate,False,
+PSC-1183,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,16.57132067388889,True,G4_high,False,
+PSC-1187,SS-095,"other perovskite composition, 3MTPAI, PDAI2_n, NiOx, SAM",False,5.0,mixture,,"100,30",,16.59305905,True,G4_high,False,
+PSC-1191,SS-096,control,True,0.0,control,,"125,60",,2.185637722388889,True,G1_nonfunctional,False,
+PSC-1192,SS-096,control,True,0.0,control,,"125,60",,3.587981773500001,True,G1_nonfunctional,False,
+PSC-1193,SS-096,control,True,0.0,control,,"125,60",,3.124881774,True,G1_nonfunctional,False,
+PSC-1194,SS-096,control,True,0.0,control,,"125,60",,2.169471252444445,True,G1_nonfunctional,False,
+PSC-1195,SS-096,control,True,0.0,control,,"125,60",,2.429372669777778,True,G1_nonfunctional,False,
+PSC-1196,SS-096,control,True,0.0,control,,"125,60",,3.015914778,True,G1_nonfunctional,False,
+PSC-1197,SS-096,control,True,0.0,control,,"125,60",,2.645761824,True,G1_nonfunctional,False,
+PSC-1198,SS-096,control,True,0.0,control,,"125,60",,2.5126191455,True,G1_nonfunctional,False,
+PSC-1199,SS-096,control,True,0.0,control,,"125,60",,2.4057792885,True,G1_nonfunctional,False,
+PSC-1200,SS-097,PDAI2,False,1.0,single,,"125,60",,10.55749309111111,True,G2_low,False,
+PSC-1201,SS-097,PDAI2,False,1.0,single,,"125,60",,11.91980525,True,G3_moderate,False,
+PSC-1202,SS-097,PDAI2,False,1.0,single,,"125,60",,13.36880777,True,G3_moderate,False,
+PSC-1203,SS-097,PDAI2,False,1.0,single,,"125,60",,14.15510404888889,True,G3_moderate,False,
+PSC-1204,SS-097,PDAI2,False,1.0,single,,"125,60",,14.34313397055556,True,G3_moderate,False,
+PSC-1205,SS-097,PDAI2,False,1.0,single,,"125,60",,11.78992026333333,True,G3_moderate,False,
+PSC-1206,SS-097,PDAI2,False,1.0,single,,"125,60",,13.23482010444445,True,G3_moderate,False,
+PSC-1207,SS-097,PDAI2,False,1.0,single,,"125,60",,12.52460017888889,True,G3_moderate,False,
+PSC-1208,SS-097,PDAI2,False,1.0,single,,"125,60",,12.59715573833333,True,G3_moderate,False,
+PSC-1209,SS-098,3MTPAI,False,1.0,single,,"125,60",,1.707539142222222,True,G1_nonfunctional,False,
+PSC-1210,SS-098,3MTPAI,False,1.0,single,,"125,60",,1.681439736888889,True,G1_nonfunctional,False,
+PSC-1211,SS-098,3MTPAI,False,1.0,single,,"125,60",,0.959176581888889,True,G1_nonfunctional,False,
+PSC-1212,SS-098,3MTPAI,False,1.0,single,,"125,60",,0.902777196,True,G1_nonfunctional,False,
+PSC-1213,SS-098,3MTPAI,False,1.0,single,,"125,60",,2.177460205555556,True,G1_nonfunctional,False,
+PSC-1214,SS-098,3MTPAI,False,1.0,single,,"125,60",,0.3608017777777778,True,G1_nonfunctional,False,
+PSC-1215,SS-098,3MTPAI,False,1.0,single,,"125,60",,0.6977598566444444,True,G1_nonfunctional,False,
+PSC-1216,SS-098,3MTPAI,False,1.0,single,,"125,60",,0.7376886335555556,True,G1_nonfunctional,False,
+PSC-1217,SS-098,3MTPAI,False,1.0,single,,"125,60",,0.7937605260000001,True,G1_nonfunctional,False,
+PSC-1218,SS-099,control,True,0.0,control,,"125,60",,2.72204198,True,G1_nonfunctional,False,
+PSC-1219,SS-099,control,True,0.0,control,,"125,60",,0.1804224677777778,True,G1_nonfunctional,False,
+PSC-1220,SS-099,control,True,0.0,control,,"125,60",,11.76535303555556,True,G3_moderate,False,
+PSC-1221,SS-099,control,True,0.0,control,,"125,60",,0.5255096052777778,True,G1_nonfunctional,False,
+PSC-1222,SS-099,control,True,0.0,control,,"125,60",,0.0018045604561111,False,ARTIFACT,,
+PSC-1223,SS-099,control,True,0.0,control,,"125,60",,8.154220060555556,True,G2_low,False,
+PSC-1224,SS-099,control,True,0.0,control,,"125,60",,6.368291543333333,True,G2_low,False,
+PSC-1225,SS-099,control,True,0.0,control,,"125,60",,0.135681385,True,G1_nonfunctional,False,
+PSC-1226,SS-099,control,True,0.0,control,,"125,60",,9.91183963,True,G2_low,False,
+PSC-1227,SS-099,control,True,0.0,control,,"125,60",,0.0016706205763333,False,ARTIFACT,,
+PSC-1228,SS-100,3MTPAI,False,1.0,single,,"125,60",,0.0583999536111111,True,G1_nonfunctional,False,
+PSC-1229,SS-100,3MTPAI,False,1.0,single,,"125,60",,6.250061949833333,True,G2_low,False,
+PSC-1230,SS-100,3MTPAI,False,1.0,single,,"125,60",,0.1187851505555556,True,G1_nonfunctional,False,
+PSC-1231,SS-100,3MTPAI,False,1.0,single,,"125,60",,6.097103609333335,True,G2_low,False,
+PSC-1232,SS-100,3MTPAI,False,1.0,single,,"125,60",,0.1528279466666667,True,G1_nonfunctional,False,
+PSC-1233,SS-100,3MTPAI,False,1.0,single,,"125,60",,4.880081466,True,G2_low,False,
+PSC-1234,SS-100,3MTPAI,False,1.0,single,,"125,60",,0.1424163547222222,True,G1_nonfunctional,False,
+PSC-1235,SS-100,3MTPAI,False,1.0,single,,"125,60",,6.830802425722223,True,G2_low,False,
+PSC-1236,SS-100,3MTPAI,False,1.0,single,,"125,60",,4.608153234666666,True,G2_low,False,
+PSC-1237,SS-100,3MTPAI,False,1.0,single,,"125,60",,0.0105360196222222,True,G1_nonfunctional,False,
+PSC-1238,SS-101,PDAI2new,False,1.0,single,,"125,60",,0.0871498424444444,True,G1_nonfunctional,False,
+PSC-1239,SS-101,PDAI2new,False,1.0,single,,"125,60",,0.0014456885542222,False,ARTIFACT,,
+PSC-1240,SS-101,PDAI2new,False,1.0,single,,"125,60",,0.080994532,True,G1_nonfunctional,False,
+PSC-1241,SS-101,PDAI2new,False,1.0,single,,"125,60",,17.10940089333333,True,G4_high,False,
+PSC-1242,SS-101,PDAI2new,False,1.0,single,,"125,60",,0.0018525409867777,False,ARTIFACT,,
+PSC-1243,SS-101,PDAI2new,False,1.0,single,,"125,60",,0.001696460623,True,G1_nonfunctional,False,
+PSC-1244,SS-101,PDAI2new,False,1.0,single,,"125,60",,5.241860897777777,True,G2_low,False,
+PSC-1245,SS-101,PDAI2new,False,1.0,single,,"125,60",,10.41251786666667,False,ARTIFACT,,
+PSC-1246,SS-101,PDAI2new,False,1.0,single,,"125,60",,0.1326781625,True,G1_nonfunctional,False,
+PSC-1247,SS-101,PDAI2new,False,1.0,single,,"125,60",,16.49991537777778,True,G4_high,False,
+PSC-1248,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,0.0455219686666666,True,G1_nonfunctional,False,
+PSC-1249,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,16.42240322222222,True,G4_high,False,
+PSC-1250,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,21.15292448666666,True,G4_high,False,
+PSC-1251,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,0.0011752423180222,True,G1_nonfunctional,False,
+PSC-1252,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,0.0211911665555555,True,G1_nonfunctional,False,
+PSC-1253,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,16.41617122666667,True,G4_high,False,
+PSC-1254,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,16.04188651555556,True,G3_moderate,False,
+PSC-1255,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,17.309123155,True,G4_high,False,
+PSC-1256,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,0.2852537173333333,True,G1_nonfunctional,False,
+PSC-1257,SS-102,PDAI2(HK),False,1.0,single,,"125,60",,0.5677622433333332,True,G1_nonfunctional,False,
+PSC-1258,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,0.0430722697777777,True,G1_nonfunctional,False,
+PSC-1259,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,0.1234177186111111,True,G1_nonfunctional,False,
+PSC-1260,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,0.017975261,True,G1_nonfunctional,False,
+PSC-1261,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,8.22729874888889,True,G2_low,False,
+PSC-1262,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,6.763935826944444,True,G2_low,False,
+PSC-1263,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,0.6536777666666667,False,ARTIFACT,,
+PSC-1264,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,2.016269770333333,True,G1_nonfunctional,False,
+PSC-1265,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,0.3835821987777778,True,G1_nonfunctional,False,
+PSC-1266,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,9.51242430522222,True,G2_low,False,
+PSC-1267,SS-103,"PDAI2(HK), 3MTPAI",False,2.0,mixture,,"125,60",,4.509996945222223,True,G1_nonfunctional,False,
+PSC-1268,SS-104,"FACs, MACl",False,2.0,mixture,15,"125,45",,7.661779987777779,True,G2_low,False,
+PSC-1269,SS-104,"FACs, MACl",False,2.0,mixture,15,"125,45",,9.170514515555558,True,G2_low,False,
+PSC-1270,SS-104,"FACs, MACl",False,2.0,mixture,15,"125,45",,9.663830463333332,True,G2_low,False,
+PSC-1271,SS-105,"FACs, MACl",False,2.0,mixture,30,"125,45",,6.762914876666667,True,G2_low,False,
+PSC-1272,SS-105,"FACs, MACl",False,2.0,mixture,30,"125,45",,7.534882697222223,True,G2_low,False,
+PSC-1273,SS-105,"FACs, MACl",False,2.0,mixture,30,"125,45",,7.372918550000001,True,G2_low,False,
+PSC-1274,SS-105,"FACs, MACl",False,2.0,mixture,30,"125,45",,6.649057152222221,True,G2_low,False,
+PSC-1275,SS-105,"FACs, MACl",False,2.0,mixture,30,"125,45",,7.069527025,True,G2_low,False,
+PSC-1276,SS-105,"FACs, MACl",False,2.0,mixture,30,"125,45",,7.755891907777778,True,G2_low,False,
+PSC-1277,SS-105,"FACs, MACl",False,2.0,mixture,30,"125,45",,5.850938622222222,True,G2_low,False,
+PSC-1278,SS-105,"FACs, MACl",False,2.0,mixture,30,"125,45",,3.672932278888889,True,G1_nonfunctional,False,
+PSC-1279,SS-106,other perovskite composition,False,1.0,single,,"100,45",,18.03175506,True,G4_high,False,
+PSC-1280,SS-106,other perovskite composition,False,1.0,single,,"100,45",,18.0007832,True,G4_high,False,
+PSC-1281,SS-106,other perovskite composition,False,1.0,single,,"100,45",,19.28449476277778,True,G4_high,False,
+PSC-1282,SS-106,other perovskite composition,False,1.0,single,,"100,45",,18.57026655,True,G4_high,False,
+PSC-1283,SS-106,other perovskite composition,False,1.0,single,,"100,45",,18.38120492388889,True,G4_high,False,
+PSC-1284,SS-106,other perovskite composition,False,1.0,single,,"100,45",,18.42499692,True,G4_high,False,
+PSC-1285,SS-106,other perovskite composition,False,1.0,single,,"100,45",,18.655447635,True,G4_high,False,
+PSC-1286,SS-107,"other perovskite composition, 3MTPAI",False,2.0,mixture,,"100,45",,15.53842446,True,G3_moderate,False,
+PSC-1287,SS-107,"other perovskite composition, 3MTPAI",False,2.0,mixture,,"100,45",,17.70029170666666,True,G4_high,False,
+PSC-1288,SS-107,"other perovskite composition, 3MTPAI",False,2.0,mixture,,"100,45",,18.19631681722222,True,G4_high,False,
+PSC-1289,SS-107,"other perovskite composition, 3MTPAI",False,2.0,mixture,,"100,45",,17.76686348777778,True,G4_high,False,
+PSC-1290,SS-107,"other perovskite composition, 3MTPAI",False,2.0,mixture,,"100,45",,18.68068513833333,True,G4_high,False,
+PSC-1291,SS-107,"other perovskite composition, 3MTPAI",False,2.0,mixture,,"100,45",,18.21553669055556,True,G4_high,False,
+PSC-1292,SS-107,"other perovskite composition, 3MTPAI",False,2.0,mixture,,"100,45",,0.6536209305555555,True,G1_nonfunctional,False,
+PSC-1293,SS-107,"other perovskite composition, 3MTPAI",False,2.0,mixture,,"100,45",,17.58913193333333,True,G4_high,False,
+PSC-1294,SS-108,"other perovskite composition, PDAI2_n",False,2.0,mixture,,"100,45",,15.06411057666667,True,G3_moderate,False,
+PSC-1295,SS-108,"other perovskite composition, PDAI2_n",False,2.0,mixture,,"100,45",,18.17080632,True,G4_high,False,
+PSC-1296,SS-108,"other perovskite composition, PDAI2_n",False,2.0,mixture,,"100,45",,12.788467545,True,G3_moderate,False,
+PSC-1297,SS-108,"other perovskite composition, PDAI2_n",False,2.0,mixture,,"100,45",,13.74169254111111,True,G3_moderate,False,
+PSC-1298,SS-108,"other perovskite composition, PDAI2_n",False,2.0,mixture,,"100,45",,13.66726809388889,True,G3_moderate,False,
+PSC-1299,SS-108,"other perovskite composition, PDAI2_n",False,2.0,mixture,,"100,45",,11.56134188611111,True,G3_moderate,False,
+PSC-1300,SS-108,"other perovskite composition, PDAI2_n",False,2.0,mixture,,"100,45",,8.884909759666668,True,G2_low,False,
+PSC-1301,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,19.03547802333333,True,G4_high,False,
+PSC-1302,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,11.29413262222222,True,G3_moderate,False,
+PSC-1303,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,18.20423824666667,True,G4_high,False,
+PSC-1304,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,18.04970826666667,True,G4_high,False,
+PSC-1305,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,16.405394,True,G4_high,False,
+PSC-1306,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,17.65808501333333,True,G4_high,False,
+PSC-1307,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,17.68652541333334,True,G4_high,False,
+PSC-1308,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,17.98812832,True,G4_high,False,
+PSC-1309,SS-109,"other perovskite composition, 3MTPAI, PDAI2",False,3.0,mixture,,"100,45",,18.46101971333334,True,G4_high,False,
+PSC-1310,SS-110,other perovskite composition,False,1.0,single,,"100,45",,11.36425951833333,True,G3_moderate,False,
+PSC-1311,SS-110,other perovskite composition,False,1.0,single,,"100,45",,14.71736482,True,G3_moderate,False,
+PSC-1312,SS-110,other perovskite composition,False,1.0,single,,"100,45",,18.33732386055556,True,G4_high,False,
+PSC-1313,SS-110,other perovskite composition,False,1.0,single,,"100,45",,18.74621109777778,True,G4_high,False,
+PSC-1314,SS-110,other perovskite composition,False,1.0,single,,"100,45",,18.91345877666667,True,G4_high,False,
+PSC-1315,SS-110,other perovskite composition,False,1.0,single,,"100,45",,18.08545975166667,True,G4_high,False,
+PSC-1316,SS-110,other perovskite composition,False,1.0,single,,"100,45",,1.909582986666667,True,G1_nonfunctional,False,locked_test
+PSC-1317,SS-110,other perovskite composition,False,1.0,single,,"100,45",,18.88254072222222,True,G4_high,False,
+PSC-1318,SS-110,other perovskite composition,False,1.0,single,,"100,45",,19.10794248,True,G4_high,False,
+PSC-1319,SS-110,other perovskite composition,False,1.0,single,,"100,45",,19.07469168,True,G4_high,False,
+PSC-1320,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,19.25187651666667,True,G4_high,False,
+PSC-1321,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,19.39652409444444,True,G4_high,False,
+PSC-1322,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,18.95752525333333,True,G4_high,False,
+PSC-1323,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,18.95702103111111,True,G4_high,False,
+PSC-1324,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,17.91979514722222,True,G4_high,False,
+PSC-1325,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,19.18069400888889,True,G4_high,False,
+PSC-1326,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,19.45323620444444,True,G4_high,False,
+PSC-1327,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,19.17153733333333,True,G4_high,False,
+PSC-1328,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,16.57514762944444,True,G4_high,False,
+PSC-1329,SS-111,"other perovskite composition, PDAI2_n",False,2.0,mixture,0.5,"100,45",,17.61928922222222,True,G4_high,False,
+PSC-1330,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.80164792,True,G4_high,False,
+PSC-1331,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.439049175,True,G4_high,False,
+PSC-1332,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.25528293,True,G4_high,False,
+PSC-1333,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.28508634555555,True,G4_high,False,
+PSC-1334,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.47288560555556,True,G4_high,False,
+PSC-1335,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.280242475,True,G4_high,False,
+PSC-1336,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.53936829,True,G4_high,False,
+PSC-1337,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.27004376,True,G4_high,False,
+PSC-1338,SS-112,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.66633513,True,G4_high,False,
+PSC-1339,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,0.7664886351666667,True,G1_nonfunctional,False,development
+PSC-1340,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,20.37302067888889,True,G4_high,False,
+PSC-1341,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,20.03735748,True,G4_high,False,
+PSC-1342,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,20.48177009444445,True,G4_high,False,
+PSC-1343,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,20.1726998,True,G4_high,False,
+PSC-1344,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,20.06672713333333,True,G4_high,False,
+PSC-1345,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,20.05983181333333,True,G4_high,False,
+PSC-1346,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,19.94588134222222,True,G4_high,False,
+PSC-1347,SS-113,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"1.5,0.5","100,45",,19.74396196666667,True,G4_high,False,
+PSC-1348,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,17.20079486222222,True,G4_high,False,
+PSC-1349,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,17.08268868944445,True,G4_high,False,
+PSC-1350,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,19.02788402,True,G4_high,False,
+PSC-1351,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,16.962938825,True,G4_high,False,
+PSC-1352,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,15.93759002666667,True,G3_moderate,False,
+PSC-1353,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,17.76100592,True,G4_high,False,
+PSC-1354,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,0.2370536109444445,True,G1_nonfunctional,False,
+PSC-1355,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,18.43327532444444,True,G4_high,False,
+PSC-1356,SS-114,"other perovskite composition, 3MTPAI, PDAI2_n",False,3.0,mixture,"3,1","100,45",,19.06757679555556,True,G4_high,False,
+PSC-1357,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,9.926902246666668,True,G2_low,False,
+PSC-1358,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,10.20162241777778,True,G2_low,False,
+PSC-1359,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,9.265179239999998,True,G2_low,False,
+PSC-1360,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.5230054542222222,True,G1_nonfunctional,False,
+PSC-1361,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,10.73179333777778,True,G2_low,False,
+PSC-1362,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,10.30342732833333,True,G2_low,False,
+PSC-1363,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,10.29714624555556,True,G2_low,False,development
+PSC-1364,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,10.41015644666667,True,G2_low,False,
+PSC-1365,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,9.072991893333334,True,G2_low,False,
+PSC-1366,SS-115,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.2230059244444444,True,G1_nonfunctional,False,
+PSC-1367,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.7295416,True,G4_high,False,
+PSC-1368,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,5.668967040000001,True,G2_low,False,
+PSC-1369,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,6.176952094444445,True,G2_low,False,development
+PSC-1370,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.6243035928888889,True,G1_nonfunctional,False,
+PSC-1371,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.075835285,True,G4_high,False,
+PSC-1372,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.39236391,True,G4_high,False,
+PSC-1373,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.453426875,True,G4_high,False,
+PSC-1374,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.76871656,True,G4_high,False,
+PSC-1375,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.35368047,True,G4_high,False,
+PSC-1376,SS-116,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.43822961111111,True,G4_high,False,
+PSC-1377,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.12146522,True,G4_high,False,
+PSC-1378,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.58379122111111,True,G4_high,False,
+PSC-1379,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.82324450055555,True,G4_high,False,
+PSC-1380,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.2344151561666667,True,G1_nonfunctional,False,
+PSC-1381,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.01149796,True,G4_high,False,
+PSC-1382,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.113740815,True,G4_high,False,
+PSC-1383,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,17.854849285,True,G4_high,False,development
+PSC-1384,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,17.59290615,True,G4_high,False,
+PSC-1385,SS-117,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.3464573003333333,True,G1_nonfunctional,False,
+PSC-1386,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.49918985722222,True,G4_high,False,
+PSC-1387,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.92392292888889,True,G4_high,False,
+PSC-1388,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.41895753722222,True,G4_high,False,
+PSC-1389,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.600952775,True,G4_high,False,
+PSC-1390,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.77633287,True,G4_high,False,
+PSC-1391,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.33672537888889,True,G4_high,False,
+PSC-1392,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.3216342615,True,G1_nonfunctional,False,
+PSC-1393,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.70275672833333,True,G4_high,False,
+PSC-1394,SS-118,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.13721911888889,True,G4_high,False,
+PSC-1395,SS-119,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.5018391904444446,True,G1_nonfunctional,False,
+PSC-1396,SS-119,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.659643777,True,G1_nonfunctional,False,
+PSC-1397,SS-119,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.299519324111111,True,G1_nonfunctional,False,
+PSC-1398,SS-119,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.7314936828333334,True,G1_nonfunctional,False,
+PSC-1399,SS-119,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,3.839357449888889,True,G1_nonfunctional,False,
+PSC-1400,SS-119,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,1.705479564111111,True,G1_nonfunctional,False,
+PSC-1401,SS-119,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,2.075737086388889,True,G1_nonfunctional,False,
+PSC-1402,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,9.199579067777776,True,G2_low,False,
+PSC-1403,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,9.20034588,True,G2_low,False,locked_test
+PSC-1404,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,8.758943709444445,True,G2_low,False,
+PSC-1405,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,2.463900269444445,True,G1_nonfunctional,False,
+PSC-1406,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,8.491359075555556,True,G2_low,False,
+PSC-1407,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,3.325395925,True,G1_nonfunctional,False,locked_test
+PSC-1408,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,8.308562126666667,True,G2_low,False,
+PSC-1409,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,7.170718380555556,True,G2_low,False,
+PSC-1410,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,6.141411111111112,True,G2_low,False,
+PSC-1411,SS-120,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,1.80959652,True,G1_nonfunctional,False,locked_test
+PSC-1412,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.78202602222222,True,G4_high,False,
+PSC-1413,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,13.39424030166667,True,G3_moderate,False,development
+PSC-1414,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.2387261398888889,True,G1_nonfunctional,False,development
+PSC-1415,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.1382312,True,G4_high,False,
+PSC-1416,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,1.238051577777778,True,G1_nonfunctional,False,development
+PSC-1417,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,14.4461096,True,G3_moderate,False,
+PSC-1418,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.6498752,True,G4_high,False,
+PSC-1419,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.69925464,True,G4_high,False,
+PSC-1420,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,17.07175951,True,G4_high,False,
+PSC-1421,SS-121,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.29421264055555,True,G4_high,False,
+PSC-1422,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.57575212,True,G4_high,False,
+PSC-1423,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.30053754666666,True,G4_high,False,
+PSC-1424,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.69211786,True,G4_high,False,development
+PSC-1425,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,17.86744193,True,G4_high,False,
+PSC-1426,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,1.473318813277778,True,G1_nonfunctional,False,development
+PSC-1427,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,17.92079627,True,G4_high,False,development
+PSC-1428,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,20.03119588444444,True,G4_high,False,
+PSC-1429,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,7.973188576666667,True,G2_low,False,development
+PSC-1430,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.17956395444444,True,G4_high,False,
+PSC-1431,SS-122,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.82825778277778,True,G4_high,False,
+PSC-1432,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,20.14210460444444,True,G4_high,False,
+PSC-1433,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,18.79143612666666,True,G4_high,False,
+PSC-1434,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,20.04992145555556,True,G4_high,False,
+PSC-1435,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.90069308888889,True,G4_high,False,
+PSC-1436,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.82116716,True,G4_high,False,
+PSC-1437,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.82759095111111,True,G4_high,False,
+PSC-1438,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,20.17832792888889,True,G4_high,False,
+PSC-1439,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.77987136,True,G4_high,False,
+PSC-1440,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.66478014666666,True,G4_high,False,
+PSC-1441,SS-123,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.73583259111111,True,G4_high,False,
+PSC-1442,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.98224599111111,True,G4_high,False,
+PSC-1443,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.8944795552222221,True,G1_nonfunctional,False,locked_test
+PSC-1444,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,3.846323208888889,True,G1_nonfunctional,False,
+PSC-1445,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,6.256446001666666,True,G2_low,False,
+PSC-1446,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,3.724126388888888,True,G1_nonfunctional,False,
+PSC-1447,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,21.41464782333334,True,G4_high,False,
+PSC-1448,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,0.4665488904222221,True,G1_nonfunctional,False,
+PSC-1449,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,8.908287306666667,True,G2_low,False,locked_test
+PSC-1450,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,19.98486794666666,True,G4_high,False,
+PSC-1451,SS-124,"other perovskite composition, 3MTPAI",False,2.0,mixture,1.5,"100,45",,6.526421472222222,True,G2_low,False,

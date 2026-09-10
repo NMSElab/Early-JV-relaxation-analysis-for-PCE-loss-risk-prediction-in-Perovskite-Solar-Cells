@@ -1,0 +1,6 @@
+# Pinned scikit-learn is required to load the frozen bundle bit-for-bit.
+# With other versions, retrain via src/train_risk_models.py instead.
+numpy>=1.26
+pandas>=2.0
+scikit-learn==1.9.0
+joblib>=1.3
